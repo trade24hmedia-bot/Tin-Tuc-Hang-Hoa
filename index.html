@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="refresh" content="900">
+<title>Tin tức thị trường phái sinh hàng hóa</title>
+<style>
+  body { font-family: -apple-system, Segoe UI, Arial, sans-serif; background:#f5f4f0; margin:0; padding:24px; color:#222; }
+  .khung { max-width: 760px; margin: 0 auto; }
+  h1 { font-size: 20px; font-weight:600; margin: 0 0 4px; }
+  .cap-nhat { font-size: 13px; color:#888; margin: 0 0 20px; }
+  .tabs { display:flex; gap:8px; margin-bottom:20px; flex-wrap:wrap; }
+  .tab-btn { border:1px solid #ddd; background:#fff; padding:6px 16px; border-radius:8px; font-size:13px; cursor:pointer; color:#555; }
+  .tab-btn.dang-chon { background:#2f4b7c; color:#fff; border-color:#2f4b7c; }
+  .luoi-gia { display:grid; grid-template-columns: repeat(auto-fit, minmax(150px,1fr)); gap:12px; margin-bottom: 24px; }
+  .the-gia { background:#fff; border-radius:12px; padding:14px 16px; border:1px solid #eee; }
+  .ten-gia { font-size:13px; color:#888; margin-bottom:6px; }
+  .so-gia { font-size:20px; font-weight:600; margin-bottom:4px; }
+  .doi-gia { font-size:12px; font-weight:600; }
+  .nhan-tin { font-size:13px; color:#888; margin: 4px 0 10px; text-transform:uppercase; letter-spacing:0.03em; }
+  .dong-tin { background:#fff; border:1px solid #eee; border-radius:10px; padding:12px 14px; margin-bottom:10px; }
+  .meta-tin { font-size:12px; color:#999; margin-bottom:4px; }
+  .cham { color:#2f4b7c; }
+  .nguon-tin { background:#eef1f7; color:#2f4b7c; padding:2px 8px; border-radius:6px; font-size:11px; }
+  .tieu-de-tin { font-size:14px; font-weight:600; color:#222; text-decoration:none; }
+  .tieu-de-tin:hover { text-decoration:underline; }
+  .het-tin { color:#888; font-size:14px; }
+  .dong-nguon { display:flex; justify-content:space-between; background:#fff; border:1px solid #eee; border-radius:8px; padding:10px 14px; margin-bottom:8px; font-size:13px; }
+  .the-loai { color:#999; }
+  .panel { display:none; }
+  .panel.hien { display:block; }
+  .canh-bao { background:#fff6e5; border:1px solid #f0d999; border-radius:8px; padding:10px 14px; font-size:13px; margin-bottom:16px; }
+  .lich-tu-dong p { font-size:14px; line-height:1.7; color:#555; }
+  .khoi-ai { background:#fff; border:1px solid #eee; border-radius:12px; padding:16px 18px; }
+  .tieu-de-ai { font-weight:700; font-size:14px; margin:14px 0 6px; color:#2f4b7c; }
+  .tieu-de-ai:first-child { margin-top:0; }
+  .dong-ai, .dong-bullet-ai { font-size:14px; line-height:1.6; color:#444; margin:2px 0; }
+</style>
+</head>
+<body>
+<div class="khung">
+  <h1>📊 Tin tức thị trường phái sinh hàng hóa</h1>
+  <p class="cap-nhat">Cập nhật lần cuối: 21:07 ngày 13/07/2026 · tự tải lại mỗi 15 phút</p>
+
+  <div class="tabs">
+    <button class="tab-btn dang-chon" onclick="doiTab('tq', this)">Tổng quan</button>
+    <button class="tab-btn" onclick="doiTab('ng', this)">Nguồn tin</button>
+    <button class="tab-btn" onclick="doiTab('lich', this)">Lịch tự động</button>
+    <button class="tab-btn" onclick="doiTab('ai', this)">Phân tích AI</button>
+  </div>
+
+  <div id="panel-tq" class="panel hien">
+    
+    <div class="luoi-gia">
+        <div class="the-gia">
+          <div class="ten-gia">Vang (XAU/USD)</div>
+          <div class="so-gia">4,058.50 USD/oz</div>
+          <div class="doi-gia" style="color:#c0392b">▼ -1.11% hôm nay</div>
+        </div>
+        <div class="the-gia">
+          <div class="ten-gia">Dau WTI</div>
+          <div class="so-gia">73.86 USD/bbl</div>
+          <div class="doi-gia" style="color:#0d7a4a">▲ +3.43% hôm nay</div>
+        </div>
+        <div class="the-gia">
+          <div class="ten-gia">Bac</div>
+          <div class="so-gia">58.62 USD/oz</div>
+          <div class="doi-gia" style="color:#c0392b">▼ -1.99% hôm nay</div>
+        </div>
+        <div class="the-gia">
+          <div class="ten-gia">Ca phe Arabica</div>
+          <div class="so-gia">335.90 USD/lb</div>
+          <div class="doi-gia" style="color:#c0392b">▼ -2.07% hôm nay</div>
+        </div>
+        <div class="the-gia">
+          <div class="ten-gia">Thep HRC</div>
+          <div class="so-gia">1,173.00 USD/tan</div>
+          <div class="doi-gia" style="color:#0d7a4a">▲ +1.30% hôm nay</div>
+        </div></div>
+    <div class="nhan-tin">Tin tức mới nhất</div>
+    
+        <div class="dong-tin">
+          <div class="meta-tin">
+            <span class="cham"></span> 14:04 &nbsp; <span class="nguon-tin">CoinDesk</span>
+          </div>
+          <a class="tieu-de-tin" href="https://www.coindesk.com/markets/2026/07/13/tom-lee-s-bitmine-raises-ether-holdings-to-usd5-77-million-or-4-8-of-supply" target="_blank">Tom Lee&#x27;s BitMine ether holdings rise to 5.77 million tokens, or 4.8% of total supply</a>
+        </div>
+        <div class="dong-tin">
+          <div class="meta-tin">
+            <span class="cham"></span> 14:00 &nbsp; <span class="nguon-tin">CafeF - Tai chinh QT</span>
+          </div>
+          <a class="tieu-de-tin" href="https://cafef.vn/phat-hien-gan-16-ty-dong-tien-mat-roi-vuong-vai-tren-duong-cao-toc-188260713163232964.chn" target="_blank">Phát hiện gần 16 tỷ đồng tiền mặt rơi vương vãi trên đường cao tốc</a>
+        </div>
+        <div class="dong-tin">
+          <div class="meta-tin">
+            <span class="cham"></span> 13:48 &nbsp; <span class="nguon-tin">CafeF - Tai chinh QT</span>
+          </div>
+          <a class="tieu-de-tin" href="https://cafef.vn/trung-quoc-de-xuat-xay-mang-luoi-truyen-dien-bang-laser-tren-mat-trang-18826071316511567.chn" target="_blank">Trung Quốc đề xuất xây mạng lưới truyền điện bằng laser trên Mặt Trăng</a>
+        </div>
+        <div class="dong-tin">
+          <div class="meta-tin">
+            <span class="cham"></span> 13:45 &nbsp; <span class="nguon-tin">CoinDesk</span>
+          </div>
+          <a class="tieu-de-tin" href="https://www.coindesk.com/policy/2026/07/13/wall-street-transfer-agents-lobby-sec-warning-that-third-party-tokens-pose-risks-to-market-integrity" target="_blank">Wall Street transfer agents lobby SEC, warning that third-party tokens pose risks to market integrity</a>
+        </div>
+        <div class="dong-tin">
+          <div class="meta-tin">
+            <span class="cham"></span> 13:26 &nbsp; <span class="nguon-tin">Cointelegraph</span>
+          </div>
+          <a class="tieu-de-tin" href="https://cointelegraph.com/news/coinbase-ventures-leading-crypto-vc-h1-2026?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" target="_blank">Coinbase Ventures tops crypto VC list for H1 2026</a>
+        </div>
+        <div class="dong-tin">
+          <div class="meta-tin">
+            <span class="cham"></span> 13:16 &nbsp; <span class="nguon-tin">CafeF - Tai chinh QT</span>
+          </div>
+          <a class="tieu-de-tin" href="https://cafef.vn/10-trieu-bat-dong-san-khong-ro-chu-so-huu-tai-nhat-ban-188260713163047545.chn" target="_blank">10 triệu bất động sản không rõ chủ sở hữu tại Nhật Bản</a>
+        </div>
+        <div class="dong-tin">
+          <div class="meta-tin">
+            <span class="cham"></span> 13:08 &nbsp; <span class="nguon-tin">Cointelegraph</span>
+          </div>
+          <a class="tieu-de-tin" href="https://cointelegraph.com/news/strategy-sells-467-million-mstr-keeps-843775-btc-stack?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" target="_blank">Strategy sells $467M in MSTR shares, leaves 843,775 BTC stack untouched</a>
+        </div>
+        <div class="dong-tin">
+          <div class="meta-tin">
+            <span class="cham"></span> 13:00 &nbsp; <span class="nguon-tin">CafeF - Tai chinh QT</span>
+          </div>
+          <a class="tieu-de-tin" href="https://cafef.vn/de-thoat-phu-thuoc-trung-quoc-my-va-phuong-tay-se-phai-tra-cai-gia-sieu-dat-mot-con-so-khong-tuong-188260713162714807.chn" target="_blank">Để thoát phụ thuộc Trung Quốc, Mỹ và phương Tây sẽ phải trả cái giá siêu đắt: một con số không tưởng</a>
+        </div>
+        <div class="dong-tin">
+          <div class="meta-tin">
+            <span class="cham"></span> 12:49 &nbsp; <span class="nguon-tin">CoinDesk</span>
+          </div>
+          <a class="tieu-de-tin" href="https://www.coindesk.com/tech/2026/07/13/robinhood-chain-surges-into-top-five-by-dex-volume-bernstein" target="_blank">Robinhood Chain surges into top five by DEX volume: Bernstein</a>
+        </div>
+        <div class="dong-tin">
+          <div class="meta-tin">
+            <span class="cham"></span> 12:27 &nbsp; <span class="nguon-tin">CafeF - Tai chinh QT</span>
+          </div>
+          <a class="tieu-de-tin" href="https://cafef.vn/chinh-truong-my-xao-tron-manh-vi-su-ra-di-duong-dot-cua-thuong-nghi-si-lindsey-graham-188260713071941751.chn" target="_blank">Chính trường Mỹ xáo trộn mạnh vì sự ra đi đường đột của Thượng nghị sĩ Lindsey Graham</a>
+        </div>
+        <div class="dong-tin">
+          <div class="meta-tin">
+            <span class="cham"></span> 12:15 &nbsp; <span class="nguon-tin">CoinDesk</span>
+          </div>
+          <a class="tieu-de-tin" href="https://www.coindesk.com/markets/2026/07/13/michael-saylor-s-strategy-added-usd467-million-in-cash-made-no-changes-to-bitcoin-holdings" target="_blank">Michael Saylor’s Strategy added $467 million in cash, made no changes to bitcoin holdings</a>
+        </div>
+        <div class="dong-tin">
+          <div class="meta-tin">
+            <span class="cham"></span> 12:00 &nbsp; <span class="nguon-tin">CafeF - Tai chinh QT</span>
+          </div>
+          <a class="tieu-de-tin" href="https://cafef.vn/doi-quan-ao-trang-mang-ve-hang-ty-usd-cho-cuba-lot-tam-ngam-cua-washington-lanh-dao-mot-nuoc-tuyen-bo-tha-mat-visa-my-con-hon-de-ho-roi-di-188260713162537438.chn" target="_blank">‘Đội quân áo trắng’ mang về hàng tỷ USD cho Cuba lọt tầm ngắm của Washington, lãnh đạo một nước tuyên bố thà mất visa Mỹ còn hơn để họ rời đi</a>
+        </div>
+        <div class="dong-tin">
+          <div class="meta-tin">
+            <span class="cham"></span> 11:50 &nbsp; <span class="nguon-tin">Cointelegraph</span>
+          </div>
+          <a class="tieu-de-tin" href="https://cointelegraph.com/news/uk-tokenization-44-billion-annual-output-2035?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" target="_blank">UK tokenization push could add as much as $44B to annual output by 2035: Report</a>
+        </div>
+        <div class="dong-tin">
+          <div class="meta-tin">
+            <span class="cham"></span> 11:40 &nbsp; <span class="nguon-tin">CoinDesk</span>
+          </div>
+          <a class="tieu-de-tin" href="https://www.coindesk.com/business/2026/07/13/sbi-holdings-blockchain-initiative-pivots-to-solana-for-tokenization-stablecoin-issuance" target="_blank">SBI Holdings&#x27; blockchain initiative pivots to Solana for tokenization, stablecoin issuance</a>
+        </div>
+        <div class="dong-tin">
+          <div class="meta-tin">
+            <span class="cham"></span> 11:40 &nbsp; <span class="nguon-tin">CoinDesk</span>
+          </div>
+          <a class="tieu-de-tin" href="https://www.coindesk.com/business/2026/07/13/uk-government-unveils-tokenization-taskforce-with-blackrock-goldman-jpmorgan-morgan-stanley" target="_blank">BlackRock, Goldman Sachs, JPMorgan, Morgan Stanley join UK government&#x27;s tokenization taskforce</a>
+        </div>
+        <div class="dong-tin">
+          <div class="meta-tin">
+            <span class="cham"></span> 11:36 &nbsp; <span class="nguon-tin">Cointelegraph</span>
+          </div>
+          <a class="tieu-de-tin" href="https://cointelegraph.com/news/bitcoin-whale-moves-188m-first-7-years?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" target="_blank">Bitcoin whale moves $188M for first time in 7 years</a>
+        </div>
+        <div class="dong-tin">
+          <div class="meta-tin">
+            <span class="cham"></span> 11:26 &nbsp; <span class="nguon-tin">CafeF - Tai chinh QT</span>
+          </div>
+          <a class="tieu-de-tin" href="https://cafef.vn/no-lien-tiep-hang-tram-quan-ukraine-dot-kich-ong-putin-phat-lenh-toi-toan-bo-bo-chi-huy-nga-da-ro-uu-tien-so-1-188260713145748053.chn" target="_blank">Nổ liên tiếp! Hàng trăm quân Ukraine đột kích – Ông Putin phát lệnh tới toàn bộ Bộ chỉ huy Nga, đã rõ ưu tiên số 1</a>
+        </div>
+        <div class="dong-tin">
+          <div class="meta-tin">
+            <span class="cham"></span> 11:20 &nbsp; <span class="nguon-tin">CoinDesk</span>
+          </div>
+          <a class="tieu-de-tin" href="https://www.coindesk.com/daybook-us/2026/07/13/resurgent-u-s-iran-hostilities-send-bitcoin-lower-even-as-etf-flows-show-demand" target="_blank">Resurgent U.S.-Iran hostilities send bitcoin lower even as ETF flows show demand</a>
+        </div>
+        <div class="dong-tin">
+          <div class="meta-tin">
+            <span class="cham"></span> 11:20 &nbsp; <span class="nguon-tin">Cointelegraph</span>
+          </div>
+          <a class="tieu-de-tin" href="https://cointelegraph.com/news/binance-futures-volume-2026-high-crypto-spot-slump?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" target="_blank">Binance June futures volume at $1.6T defies crypto spot trading slump</a>
+        </div>
+        <div class="dong-tin">
+          <div class="meta-tin">
+            <span class="cham"></span> 11:02 &nbsp; <span class="nguon-tin">CafeF - Tai chinh QT</span>
+          </div>
+          <a class="tieu-de-tin" href="https://cafef.vn/mot-o-dich-bung-phat-tai-khu-nha-giau-new-york-46-nguoi-mac-benh-31-toa-nha-cho-ket-qua-duong-tinh-voi-vi-khuan-188260713152834437.chn" target="_blank">Một ổ dịch bùng phát tại khu nhà giàu New York , 46 người mắc bệnh, 31 tòa nhà cho kết quả dương tính với vi khuẩn</a>
+        </div>
+  </div>
+
+  <div id="panel-ng" class="panel">
+    <div class="dong-nguon"><span>CoinDesk</span><span class="the-loai">RSS</span></div><div class="dong-nguon"><span>Cointelegraph</span><span class="the-loai">RSS</span></div><div class="dong-nguon"><span>Investing - Hang hoa</span><span class="the-loai">RSS</span></div><div class="dong-nguon"><span>Investing - Phai sinh</span><span class="the-loai">RSS</span></div><div class="dong-nguon"><span>Reuters - Markets</span><span class="the-loai">RSS</span></div><div class="dong-nguon"><span>CafeF - Tai chinh QT</span><span class="the-loai">RSS</span></div><div class="dong-nguon"><span>CafeF - Hang hoa</span><span class="the-loai">RSS</span></div><div class="dong-nguon"><span>Vang (XAU/USD) (GC=F)</span><span class="the-loai">yfinance</span></div><div class="dong-nguon"><span>Dau WTI (CL=F)</span><span class="the-loai">yfinance</span></div><div class="dong-nguon"><span>Bac (SI=F)</span><span class="the-loai">yfinance</span></div><div class="dong-nguon"><span>Ca phe Arabica (KC=F)</span><span class="the-loai">yfinance</span></div><div class="dong-nguon"><span>Thep HRC (HRC=F)</span><span class="the-loai">yfinance</span></div>
+  </div>
+
+  <div id="panel-lich" class="panel lich-tu-dong">
+    
+    <p>Dashboard hiện tự tải lại (F5) mỗi <b>15 phút</b> ngay trên trình duyệt.</p>
+    <p>Để dữ liệu bên trong thực sự mới, cần cho script Python chạy lại định kỳ (qua Task Scheduler)
+    với cùng khoảng thời gian đó — nếu chưa đặt, dữ liệu sẽ chỉ mới tính từ lần bạn tự chạy tay gần nhất.</p>
+    <p>Nếu đã bật đẩy lên GitHub, mỗi lần script chạy sẽ cập nhật luôn bản trên GitHub Pages,
+    nên máy khác mở link cũng thấy đúng bản mới nhất.</p>
+  </div>
+
+  <div id="panel-ai" class="panel">
+    <div class="khoi-ai"><div class="canh-bao">Phân tích AI đang tắt.
+        Điền ANTHROPIC_API_KEY và đặt BAT_PHAN_TICH_AI = True trong file script để bật.</div></div>
+  </div>
+</div>
+<script>
+function doiTab(ten, nut) {
+  document.querySelectorAll('.panel').forEach(p => p.classList.remove('hien'));
+  document.getElementById('panel-' + ten).classList.add('hien');
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('dang-chon'));
+  nut.classList.add('dang-chon');
+}
+</script>
+</body>
+</html>
