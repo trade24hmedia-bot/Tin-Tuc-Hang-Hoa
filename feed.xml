@@ -4,8 +4,16 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Thu, 16 Jul 2026 05:10:04 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 16 Jul 2026 05:15:04 GMT</lastBuildDate>
   
+  <item>
+    <title>A bitcoin wallet dormant since the 2017 peak just moved $383 million</title>
+    <link>https://www.coindesk.com/markets/2026/07/16/a-bitcoin-wallet-dormant-since-the-2017-peak-just-moved-usd383-million</link>
+    <guid>https://www.coindesk.com/markets/2026/07/16/a-bitcoin-wallet-dormant-since-the-2017-peak-just-moved-usd383-million</guid>
+    <pubDate>Thu, 16 Jul 2026 05:12:26 GMT</pubDate>
+    <source>CoinDesk</source>
+    <description>A bitcoin wallet dormant since the 2017 peak just moved $383 million</description>
+  </item>
   <item>
     <title>Danh tính 6 nghệ sĩ tử vong</title>
     <link>https://cafef.vn/danh-tinh-6-nghe-si-tu-vong-188260716055919087.chn</link>
@@ -157,14 +165,6 @@
     <pubDate>Wed, 15 Jul 2026 17:56:00 GMT</pubDate>
     <source>Cointelegraph</source>
     <description>US Senator blasts AG pick for ‘dismantling’ crypto unit, Trump’s CZ pardon</description>
-  </item>
-  <item>
-    <title>Ostium pauses trading as security firms report multimillion-dollar oracle exploit</title>
-    <link>https://cointelegraph.com/news/ostium-pauses-trading-as-security-firms-report-multimillion-dollar-oracle-exploit?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-    <guid>https://cointelegraph.com/news/ostium-pauses-trading-as-security-firms-report-multimillion-dollar-oracle-exploit?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-    <pubDate>Wed, 15 Jul 2026 17:14:21 GMT</pubDate>
-    <source>Cointelegraph</source>
-    <description>Ostium pauses trading as security firms report multimillion-dollar oracle exploit</description>
   </item>
 </channel>
 </rss>
