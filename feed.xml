@@ -4,7 +4,7 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Tue, 21 Jul 2026 13:50:05 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 21 Jul 2026 13:55:05 GMT</lastBuildDate>
   
   <item>
     <title>Tesla expands robotaxi service to Orlando, Tampa ahead of earnings</title>
@@ -69,6 +69,14 @@
     <pubDate>Tue, 21 Jul 2026 13:34:51 GMT</pubDate>
     <source>Investing - Phai sinh</source>
     <description>Emirates refusing to take delivery of first 10 Boeing 777X jets</description>
+  </item>
+  <item>
+    <title>CoinShares debuts Bitcoin mining ETF in Europe entrance</title>
+    <link>https://cointelegraph.com/news/coinshares-debuts-bitcoin-mining-ucits-etf-in-europe?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+    <guid>https://cointelegraph.com/news/coinshares-debuts-bitcoin-mining-ucits-etf-in-europe?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+    <pubDate>Tue, 21 Jul 2026 13:34:26 GMT</pubDate>
+    <source>Cointelegraph</source>
+    <description>CoinShares debuts Bitcoin mining ETF in Europe entrance</description>
   </item>
   <item>
     <title>Wall Street opens higher on semiconductor boost as traders eye earnings deluge</title>
@@ -157,14 +165,6 @@
     <pubDate>Tue, 21 Jul 2026 13:00:00 GMT</pubDate>
     <source>Cointelegraph</source>
     <description>Morpho launches fixed-rate lending protocol on Base</description>
-  </item>
-  <item>
-    <title>Doanh nghiệp Trung Quốc cam kết đầu tư gần 24.000 tỷ đồng xây cảng biển mới cho quốc gia "giàu nhưng nghèo khó"</title>
-    <link>https://cafef.vn/doanh-nghiep-trung-quoc-cam-ket-dau-tu-gan-24000-ty-dong-xay-cang-bien-moi-cho-quoc-gia-giau-nhung-ngheo-kho-188260721190026027.chn</link>
-    <guid>https://cafef.vn/doanh-nghiep-trung-quoc-cam-ket-dau-tu-gan-24000-ty-dong-xay-cang-bien-moi-cho-quoc-gia-giau-nhung-ngheo-kho-188260721190026027.chn</guid>
-    <pubDate>Tue, 21 Jul 2026 13:00:00 GMT</pubDate>
-    <source>CafeF - Tai chinh QT</source>
-    <description>Doanh nghiệp Trung Quốc cam kết đầu tư gần 24.000 tỷ đồng xây cảng biển mới cho quốc gia "giàu nhưng nghèo khó"</description>
   </item>
 </channel>
 </rss>
