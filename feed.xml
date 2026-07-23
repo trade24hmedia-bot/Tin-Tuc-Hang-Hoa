@@ -4,8 +4,16 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Thu, 23 Jul 2026 01:50:06 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 23 Jul 2026 01:55:07 GMT</lastBuildDate>
   
+  <item>
+    <title>AFX Protocol reportedly loses $24M in bridge exploit</title>
+    <link>https://cointelegraph.com/news/afx-protocol-reportedly-loses-24m-in-bridge-exploit?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+    <guid>https://cointelegraph.com/news/afx-protocol-reportedly-loses-24m-in-bridge-exploit?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+    <pubDate>Thu, 23 Jul 2026 01:47:20 GMT</pubDate>
+    <source>Cointelegraph</source>
+    <description>AFX Protocol reportedly loses $24M in bridge exploit</description>
+  </item>
   <item>
     <title>Gold holds above $4,130 as Middle East tensions offset higher-rate concerns</title>
     <link>https://www.investing.com/news/commodities-news/gold-holds-above-4130-as-middle-east-tensions-offset-higherrate-concerns-4807361</link>
@@ -157,14 +165,6 @@
     <pubDate>Wed, 22 Jul 2026 22:12:26 GMT</pubDate>
     <source>Investing - Hang hoa</source>
     <description>US says it reaches nuclear power deal with Saudi Arabia</description>
-  </item>
-  <item>
-    <title>Trump administration considers putting nuclear power plants in US waters</title>
-    <link>https://www.investing.com/news/commodities-news/trump-administration-considers-putting-nuclear-power-plants-in-us-waters-4806812</link>
-    <guid>https://www.investing.com/news/commodities-news/trump-administration-considers-putting-nuclear-power-plants-in-us-waters-4806812</guid>
-    <pubDate>Wed, 22 Jul 2026 21:48:25 GMT</pubDate>
-    <source>Investing - Hang hoa</source>
-    <description>Trump administration considers putting nuclear power plants in US waters</description>
   </item>
 </channel>
 </rss>
