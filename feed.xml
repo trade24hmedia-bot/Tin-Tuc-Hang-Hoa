@@ -4,8 +4,16 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Thu, 23 Jul 2026 06:10:08 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 23 Jul 2026 06:15:20 GMT</lastBuildDate>
   
+  <item>
+    <title>Here’s what happened in crypto today</title>
+    <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+    <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+    <pubDate>Thu, 23 Jul 2026 06:12:09 GMT</pubDate>
+    <source>Cointelegraph</source>
+    <description>Here’s what happened in crypto today</description>
+  </item>
   <item>
     <title>Nestle to raise €3 billion from spin off of its water business</title>
     <link>https://www.investing.com/news/stock-market-news/nestle-to-raise-3-billion-from-spin-off-of-its-water-business-4807552</link>
@@ -157,14 +165,6 @@
     <pubDate>Thu, 23 Jul 2026 04:15:30 GMT</pubDate>
     <source>Cointelegraph</source>
     <description>White House accuses Moonshot AI of distilling Anthropic tech for K3</description>
-  </item>
-  <item>
-    <title>XRP whales accumulate as small holders capitulate</title>
-    <link>https://www.coindesk.com/markets/2026/07/23/xrp-whales-accumulate-as-small-holders-capitulate</link>
-    <guid>https://www.coindesk.com/markets/2026/07/23/xrp-whales-accumulate-as-small-holders-capitulate</guid>
-    <pubDate>Thu, 23 Jul 2026 04:11:13 GMT</pubDate>
-    <source>CoinDesk</source>
-    <description>XRP whales accumulate as small holders capitulate</description>
   </item>
 </channel>
 </rss>
