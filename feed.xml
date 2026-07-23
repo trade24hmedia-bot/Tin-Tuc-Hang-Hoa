@@ -4,7 +4,7 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Thu, 23 Jul 2026 15:10:06 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 23 Jul 2026 15:15:06 GMT</lastBuildDate>
   
   <item>
     <title>Hyundai Motor misses Q2 forecast, keeps outlook as it plans new model launches</title>
@@ -69,6 +69,22 @@
     <pubDate>Thu, 23 Jul 2026 07:54:41 GMT</pubDate>
     <source>Investing - Phai sinh</source>
     <description>Why is Huhtamaki stock surging today?</description>
+  </item>
+  <item>
+    <title>Segro stock surges after backing Prologis takeover bid</title>
+    <link>https://www.investing.com/news/stock-market-news/segro-stock-surges-after-backing-prologis-takeover-bid-93CH-4807710</link>
+    <guid>https://www.investing.com/news/stock-market-news/segro-stock-surges-after-backing-prologis-takeover-bid-93CH-4807710</guid>
+    <pubDate>Thu, 23 Jul 2026 07:54:32 GMT</pubDate>
+    <source>Investing - Phai sinh</source>
+    <description>Segro stock surges after backing Prologis takeover bid</description>
+  </item>
+  <item>
+    <title>Why is SEB stock surging today?</title>
+    <link>https://www.investing.com/news/stock-market-news/why-is-seb-stock-surging-today-93CH-4807707</link>
+    <guid>https://www.investing.com/news/stock-market-news/why-is-seb-stock-surging-today-93CH-4807707</guid>
+    <pubDate>Thu, 23 Jul 2026 07:53:17 GMT</pubDate>
+    <source>Investing - Phai sinh</source>
+    <description>Why is SEB stock surging today?</description>
   </item>
   <item>
     <title>Mirae Asset completes Korbit acquisition, becomes largest shareholder</title>
@@ -149,22 +165,6 @@
     <pubDate>Thu, 23 Jul 2026 06:46:58 GMT</pubDate>
     <source>Cointelegraph</source>
     <description>Kakao taps Circle to explore won stablecoin payment infrastructure</description>
-  </item>
-  <item>
-    <title>Bitcoin, Ethereum-linked protocols lose $35 million in multiple attacks hours apart</title>
-    <link>https://www.coindesk.com/tech/2026/07/23/bitcoin-ethereum-linked-protocols-lose-usd35-million-in-multiple-attacks-hours-apart</link>
-    <guid>https://www.coindesk.com/tech/2026/07/23/bitcoin-ethereum-linked-protocols-lose-usd35-million-in-multiple-attacks-hours-apart</guid>
-    <pubDate>Thu, 23 Jul 2026 06:38:18 GMT</pubDate>
-    <source>CoinDesk</source>
-    <description>Bitcoin, Ethereum-linked protocols lose $35 million in multiple attacks hours apart</description>
-  </item>
-  <item>
-    <title>Here’s what happened in crypto today</title>
-    <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-    <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-    <pubDate>Thu, 23 Jul 2026 06:12:09 GMT</pubDate>
-    <source>Cointelegraph</source>
-    <description>Here’s what happened in crypto today</description>
   </item>
 </channel>
 </rss>
