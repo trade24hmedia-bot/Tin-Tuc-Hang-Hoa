@@ -4,7 +4,7 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Fri, 24 Jul 2026 04:20:07 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 24 Jul 2026 04:25:05 GMT</lastBuildDate>
   
   <item>
     <title>Tech company bonds fall on AI spending and oil price concerns</title>
@@ -87,6 +87,14 @@
     <description>Coinbase lets businesses accept USDC payments from AI agents</description>
   </item>
   <item>
+    <title>Wall St falls as tech earnings spark AI spending worries and oil hits $100</title>
+    <link>https://www.investing.com/news/stock-market-news/wall-st-futures-ease-as-big-tech-results-revive-ai-spending-worries-oil-jumps-4808085</link>
+    <guid>https://www.investing.com/news/stock-market-news/wall-st-futures-ease-as-big-tech-results-revive-ai-spending-worries-oil-jumps-4808085</guid>
+    <pubDate>Thu, 23 Jul 2026 20:43:02 GMT</pubDate>
+    <source>Investing - Phai sinh</source>
+    <description>Wall St falls as tech earnings spark AI spending worries and oil hits $100</description>
+  </item>
+  <item>
     <title>Bitcoin slides below $65K as Iran conflict fuels $100 oil and bond-yield surge</title>
     <link>https://cointelegraph.com/markets/bitcoin-dips-below-65k-iran-war-sparks-100-oil-us-bond-spike?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
     <guid>https://cointelegraph.com/markets/bitcoin-dips-below-65k-iran-war-sparks-100-oil-us-bond-spike?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
@@ -157,14 +165,6 @@
     <pubDate>Thu, 23 Jul 2026 19:08:27 GMT</pubDate>
     <source>Investing - Hang hoa</source>
     <description>Silver consolidates below resistance at $57.85: Live levels</description>
-  </item>
-  <item>
-    <title>Robinhood CEO Vlad Tenev's X account hacked to promote token amid memecoin frenzy</title>
-    <link>https://www.coindesk.com/business/2026/07/23/robinhood-ceo-vlad-tenev-s-x-account-hacked-to-promote-token-amid-memecoin-frenzy</link>
-    <guid>https://www.coindesk.com/business/2026/07/23/robinhood-ceo-vlad-tenev-s-x-account-hacked-to-promote-token-amid-memecoin-frenzy</guid>
-    <pubDate>Thu, 23 Jul 2026 18:29:31 GMT</pubDate>
-    <source>CoinDesk</source>
-    <description>Robinhood CEO Vlad Tenev's X account hacked to promote token amid memecoin frenzy</description>
   </item>
 </channel>
 </rss>
