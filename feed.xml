@@ -4,7 +4,7 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Sat, 25 Jul 2026 21:40:07 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 25 Jul 2026 21:45:10 GMT</lastBuildDate>
   
   <item>
     <title>Russia says Ukraine killed 11 in tourist camp; Ukraine strikes Russian refinery</title>
@@ -13,6 +13,14 @@
     <pubDate>Sat, 25 Jul 2026 14:36:08 GMT</pubDate>
     <source>Investing - Phai sinh</source>
     <description>Russia says Ukraine killed 11 in tourist camp; Ukraine strikes Russian refinery</description>
+  </item>
+  <item>
+    <title>Nga báo tin buồn cho cả thế giới</title>
+    <link>https://cafef.vn/nga-bao-tin-buon-cho-ca-the-gioi-18826072520354907.chn</link>
+    <guid>https://cafef.vn/nga-bao-tin-buon-cho-ca-the-gioi-18826072520354907.chn</guid>
+    <pubDate>Sat, 25 Jul 2026 14:35:00 GMT</pubDate>
+    <source>CafeF - Tai chinh QT</source>
+    <description>Nga báo tin buồn cho cả thế giới</description>
   </item>
   <item>
     <title>Một quyết định không báo trước khiến Tổng thống Trump phản ứng mạnh, Nhà Trắng mâu thuẫn</title>
@@ -157,14 +165,6 @@
     <pubDate>Sat, 25 Jul 2026 10:01:26 GMT</pubDate>
     <source>Cointelegraph</source>
     <description>Dango’s perp DEX taps out nearly 4 months after launch</description>
-  </item>
-  <item>
-    <title>Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size</title>
-    <link>https://www.coindesk.com/business/2026/07/25/robinhood-chain-s-real-world-assets-jump-fivefold-as-tokenized-stocks-start-trading-in-bigger-size</link>
-    <guid>https://www.coindesk.com/business/2026/07/25/robinhood-chain-s-real-world-assets-jump-fivefold-as-tokenized-stocks-start-trading-in-bigger-size</guid>
-    <pubDate>Sat, 25 Jul 2026 10:00:00 GMT</pubDate>
-    <source>CoinDesk</source>
-    <description>Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size</description>
   </item>
 </channel>
 </rss>
