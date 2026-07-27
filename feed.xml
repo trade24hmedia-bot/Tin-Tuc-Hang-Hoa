@@ -4,8 +4,16 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Mon, 27 Jul 2026 19:10:08 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 27 Jul 2026 19:15:05 GMT</lastBuildDate>
   
+  <item>
+    <title>Michael Saylor's Strategy boosted cash reserve to $3.75 billion</title>
+    <link>https://www.coindesk.com/markets/2026/07/27/michael-saylor-s-strategy-boosted-cash-reserve-to-usd3-75-billion</link>
+    <guid>https://www.coindesk.com/markets/2026/07/27/michael-saylor-s-strategy-boosted-cash-reserve-to-usd3-75-billion</guid>
+    <pubDate>Mon, 27 Jul 2026 12:12:54 GMT</pubDate>
+    <source>CoinDesk</source>
+    <description>Michael Saylor's Strategy boosted cash reserve to $3.75 billion</description>
+  </item>
   <item>
     <title>Saab wins $1 billion order for surveillance aircraft in Middle East</title>
     <link>https://www.investing.com/news/stock-market-news/saab-wins-1-billion-order-for-surveillance-aircraft-in-middle-east-4813892</link>
@@ -157,14 +165,6 @@
     <pubDate>Mon, 27 Jul 2026 10:42:44 GMT</pubDate>
     <source>Investing - Hang hoa</source>
     <description>China chip champ</description>
-  </item>
-  <item>
-    <title>Coinbase CEO Brian Armstrong criticizes crypto startups that rebrand to AI</title>
-    <link>https://www.coindesk.com/business/2026/07/27/coinbase-ceo-brian-armstrong-criticizes-crypto-startups-that-rebrand-to-ai</link>
-    <guid>https://www.coindesk.com/business/2026/07/27/coinbase-ceo-brian-armstrong-criticizes-crypto-startups-that-rebrand-to-ai</guid>
-    <pubDate>Mon, 27 Jul 2026 10:39:22 GMT</pubDate>
-    <source>CoinDesk</source>
-    <description>Coinbase CEO Brian Armstrong criticizes crypto startups that rebrand to AI</description>
   </item>
 </channel>
 </rss>
