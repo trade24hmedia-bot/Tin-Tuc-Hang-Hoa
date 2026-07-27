@@ -4,7 +4,7 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Mon, 27 Jul 2026 20:55:05 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 27 Jul 2026 21:00:07 GMT</lastBuildDate>
   
   <item>
     <title>Cuộc cách mạng trong ngành bảo hiểm: Vướng bê bối lạm dụng 520 tỷ đồng, Prudential Nhật Bản vội bỏ chế độ trả lương theo hoa hồng</title>
@@ -53,6 +53,14 @@
     <pubDate>Mon, 27 Jul 2026 13:42:02 GMT</pubDate>
     <source>Investing - Phai sinh</source>
     <description>Why is Cerebras Systems stock sliding today?</description>
+  </item>
+  <item>
+    <title>Hong Kong crypto giant HashKey merges regional exchange into one</title>
+    <link>https://cointelegraph.com/news/hong-kong-crypto-giant-hashkey-merges-its-exchanges-into-one?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+    <guid>https://cointelegraph.com/news/hong-kong-crypto-giant-hashkey-merges-its-exchanges-into-one?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+    <pubDate>Mon, 27 Jul 2026 13:41:44 GMT</pubDate>
+    <source>Cointelegraph</source>
+    <description>Hong Kong crypto giant HashKey merges regional exchange into one</description>
   </item>
   <item>
     <title>Why is Replimune stock sliding today?</title>
@@ -157,14 +165,6 @@
     <pubDate>Mon, 27 Jul 2026 13:25:58 GMT</pubDate>
     <source>CoinDesk</source>
     <description>Nvidia forms 37-member AI security alliance without OpenAI, Anthropic or Google</description>
-  </item>
-  <item>
-    <title>Binance disappears from Google Play in certain EU countries</title>
-    <link>https://cointelegraph.com/news/binance-disappears-android-google-play-certain-eu-countries?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-    <guid>https://cointelegraph.com/news/binance-disappears-android-google-play-certain-eu-countries?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-    <pubDate>Mon, 27 Jul 2026 13:24:17 GMT</pubDate>
-    <source>Cointelegraph</source>
-    <description>Binance disappears from Google Play in certain EU countries</description>
   </item>
 </channel>
 </rss>
