@@ -4,8 +4,16 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Mon, 27 Jul 2026 20:30:06 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 27 Jul 2026 20:35:08 GMT</lastBuildDate>
   
+  <item>
+    <title>Thailand's SEC alleges Bitkub concealed cyberattack that led to $50 million hack</title>
+    <link>https://www.coindesk.com/policy/2026/07/27/thailand-s-sec-alleges-bitkub-concealed-cyberattack-that-led-to-usd50-million-hack</link>
+    <guid>https://www.coindesk.com/policy/2026/07/27/thailand-s-sec-alleges-bitkub-concealed-cyberattack-that-led-to-usd50-million-hack</guid>
+    <pubDate>Mon, 27 Jul 2026 13:32:16 GMT</pubDate>
+    <source>CoinDesk</source>
+    <description>Thailand's SEC alleges Bitkub concealed cyberattack that led to $50 million hack</description>
+  </item>
   <item>
     <title>Cả 3 phi công trong buồng lái đồng loạt nhiễm độc giữa lúc máy bay ở độ cao hơn 9.100 m</title>
     <link>https://cafef.vn/ca-3-phi-cong-trong-buong-lai-dong-loat-nhiem-doc-giua-luc-may-bay-o-do-cao-hon-9100-m-188260727192713841.chn</link>
@@ -157,14 +165,6 @@
     <pubDate>Mon, 27 Jul 2026 12:55:57 GMT</pubDate>
     <source>CoinDesk</source>
     <description>Bitmine buys more ether as Tom Lee says rising ETH/BTC ratio points to stronger crypto prices</description>
-  </item>
-  <item>
-    <title>Circle buys nearly 1,000 blockchain patents from IBM</title>
-    <link>https://www.coindesk.com/business/2026/07/27/circle-buys-nearly-1-000-blockchain-patents-from-ibm</link>
-    <guid>https://www.coindesk.com/business/2026/07/27/circle-buys-nearly-1-000-blockchain-patents-from-ibm</guid>
-    <pubDate>Mon, 27 Jul 2026 12:47:04 GMT</pubDate>
-    <source>CoinDesk</source>
-    <description>Circle buys nearly 1,000 blockchain patents from IBM</description>
   </item>
 </channel>
 </rss>
