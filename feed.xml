@@ -4,7 +4,7 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Mon, 27 Jul 2026 20:35:08 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 27 Jul 2026 20:40:05 GMT</lastBuildDate>
   
   <item>
     <title>Thailand's SEC alleges Bitkub concealed cyberattack that led to $50 million hack</title>
@@ -45,6 +45,14 @@
     <pubDate>Mon, 27 Jul 2026 13:24:59 GMT</pubDate>
     <source>Investing - Phai sinh</source>
     <description>Philip Morris doubles Colorado campus investment to $1.2 billion</description>
+  </item>
+  <item>
+    <title>Binance disappears from Google Play in certain EU countries</title>
+    <link>https://cointelegraph.com/news/binance-disappears-android-google-play-certain-eu-countries?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+    <guid>https://cointelegraph.com/news/binance-disappears-android-google-play-certain-eu-countries?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+    <pubDate>Mon, 27 Jul 2026 13:24:17 GMT</pubDate>
+    <source>Cointelegraph</source>
+    <description>Binance disappears from Google Play in certain EU countries</description>
   </item>
   <item>
     <title>ASML and U.S. chip stocks sink on report of China’s DUV breakthrough</title>
@@ -157,14 +165,6 @@
     <pubDate>Mon, 27 Jul 2026 13:00:00 GMT</pubDate>
     <source>CafeF - Tai chinh QT</source>
     <description>Scandal 'hóa phép' bột giặt thành sữa tươi gây rúng động ở Ấn Độ</description>
-  </item>
-  <item>
-    <title>Bitmine buys more ether as Tom Lee says rising ETH/BTC ratio points to stronger crypto prices</title>
-    <link>https://www.coindesk.com/business/2026/07/27/bitmine-buys-more-ether-as-tom-lee-says-rising-eth-btc-ratio-points-to-stronger-crypto-prices</link>
-    <guid>https://www.coindesk.com/business/2026/07/27/bitmine-buys-more-ether-as-tom-lee-says-rising-eth-btc-ratio-points-to-stronger-crypto-prices</guid>
-    <pubDate>Mon, 27 Jul 2026 12:55:57 GMT</pubDate>
-    <source>CoinDesk</source>
-    <description>Bitmine buys more ether as Tom Lee says rising ETH/BTC ratio points to stronger crypto prices</description>
   </item>
 </channel>
 </rss>
