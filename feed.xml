@@ -4,7 +4,7 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Mon, 27 Jul 2026 11:40:06 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 27 Jul 2026 11:45:05 GMT</lastBuildDate>
   
   <item>
     <title>BitMart withdrawals appear to slow following wind-down announcement</title>
@@ -21,6 +21,14 @@
     <pubDate>Mon, 27 Jul 2026 04:34:00 GMT</pubDate>
     <source>CafeF - Tai chinh QT</source>
     <description>Một cổ phiếu tăng 500% chỉ trong vài giờ</description>
+  </item>
+  <item>
+    <title>CATL rises after announcing up to $5.6 billion buyback following strong H1 results</title>
+    <link>https://www.investing.com/news/stock-market-news/catl-rises-after-announcing-up-to-56-billion-buyback-following-strong-h1-results-4812956</link>
+    <guid>https://www.investing.com/news/stock-market-news/catl-rises-after-announcing-up-to-56-billion-buyback-following-strong-h1-results-4812956</guid>
+    <pubDate>Mon, 27 Jul 2026 04:30:31 GMT</pubDate>
+    <source>Investing - Phai sinh</source>
+    <description>CATL rises after announcing up to $5.6 billion buyback following strong H1 results</description>
   </item>
   <item>
     <title>Bitcoin is back above $65,000 as U.S. and Iran hold fire. Oil drops 5%</title>
@@ -157,14 +165,6 @@
     <pubDate>Mon, 27 Jul 2026 01:01:43 GMT</pubDate>
     <source>Cointelegraph</source>
     <description>Storj files for bankruptcy, explores equity path for tokenholders</description>
-  </item>
-  <item>
-    <title>Oil tumbles over 5% as U.S.-Iran pause sparks hopes for diplomatic breakthrough</title>
-    <link>https://www.investing.com/news/commodities-news/oil-tumbles-over-5-as-usiran-pause-sparks-hopes-for-diplomatic-breakthrough-4812935</link>
-    <guid>https://www.investing.com/news/commodities-news/oil-tumbles-over-5-as-usiran-pause-sparks-hopes-for-diplomatic-breakthrough-4812935</guid>
-    <pubDate>Mon, 27 Jul 2026 00:59:07 GMT</pubDate>
-    <source>Investing - Hang hoa</source>
-    <description>Oil tumbles over 5% as U.S.-Iran pause sparks hopes for diplomatic breakthrough</description>
   </item>
 </channel>
 </rss>
