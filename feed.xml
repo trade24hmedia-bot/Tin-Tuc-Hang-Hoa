@@ -4,7 +4,7 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Tue, 28 Jul 2026 02:00:05 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 28 Jul 2026 02:05:05 GMT</lastBuildDate>
   
   <item>
     <title>Former JPMorgan Chase banker expands lurid sexual harassment, racism lawsuit</title>
@@ -13,6 +13,14 @@
     <pubDate>Mon, 27 Jul 2026 18:55:10 GMT</pubDate>
     <source>Investing - Phai sinh</source>
     <description>Former JPMorgan Chase banker expands lurid sexual harassment, racism lawsuit</description>
+  </item>
+  <item>
+    <title>Here’s what happened in crypto today</title>
+    <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+    <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+    <pubDate>Mon, 27 Jul 2026 18:51:58 GMT</pubDate>
+    <source>Cointelegraph</source>
+    <description>Here’s what happened in crypto today</description>
   </item>
   <item>
     <title>Trump says US and Tehran having ’good talks’ as drones hit Iran’s neighbours</title>
@@ -157,14 +165,6 @@
     <pubDate>Mon, 27 Jul 2026 16:40:39 GMT</pubDate>
     <source>Cointelegraph</source>
     <description>Kraken parent Payward acquires Magic Labs’ wallet business</description>
-  </item>
-  <item>
-    <title>Baker Hughes sees modest decline in global oil spending</title>
-    <link>https://www.investing.com/news/commodities-news/baker-hughes-sees-modest-decline-in-global-oil-spending-93CH-4814797</link>
-    <guid>https://www.investing.com/news/commodities-news/baker-hughes-sees-modest-decline-in-global-oil-spending-93CH-4814797</guid>
-    <pubDate>Mon, 27 Jul 2026 16:39:31 GMT</pubDate>
-    <source>Investing - Hang hoa</source>
-    <description>Baker Hughes sees modest decline in global oil spending</description>
   </item>
 </channel>
 </rss>
