@@ -4,7 +4,7 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Tue, 28 Jul 2026 16:50:05 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 28 Jul 2026 16:55:05 GMT</lastBuildDate>
   
   <item>
     <title>BofA says K-shaped consumer spending gap has closed</title>
@@ -21,6 +21,14 @@
     <pubDate>Tue, 28 Jul 2026 09:45:27 GMT</pubDate>
     <source>Investing - Phai sinh</source>
     <description>Why is Bechtle stock surging today?</description>
+  </item>
+  <item>
+    <title>NÓNG: Động đất mạnh 7,1 độ rung chuyển Nhật Bản, ban bố cảnh báo sóng thần</title>
+    <link>https://cafef.vn/nong-dong-dat-manh-71-do-rung-chuyen-nhat-ban-ban-bo-canh-bao-song-than-188260728154141074.chn</link>
+    <guid>https://cafef.vn/nong-dong-dat-manh-71-do-rung-chuyen-nhat-ban-ban-bo-canh-bao-song-than-188260728154141074.chn</guid>
+    <pubDate>Tue, 28 Jul 2026 09:45:00 GMT</pubDate>
+    <source>CafeF - Tai chinh QT</source>
+    <description>NÓNG: Động đất mạnh 7,1 độ rung chuyển Nhật Bản, ban bố cảnh báo sóng thần</description>
   </item>
   <item>
     <title>Why is Lufax stock slipping today?</title>
@@ -157,14 +165,6 @@
     <pubDate>Tue, 28 Jul 2026 08:14:14 GMT</pubDate>
     <source>Investing - Hang hoa</source>
     <description>European natural gas extends sell-off to one-week lows on Trump-Iran talks</description>
-  </item>
-  <item>
-    <title>Inside the CME and CFTC’s battle over onchain perpetual futures</title>
-    <link>https://www.coindesk.com/policy/2026/07/28/inside-the-cme-and-cftc-s-battle-over-onchain-perpetual-futures</link>
-    <guid>https://www.coindesk.com/policy/2026/07/28/inside-the-cme-and-cftc-s-battle-over-onchain-perpetual-futures</guid>
-    <pubDate>Tue, 28 Jul 2026 08:00:00 GMT</pubDate>
-    <source>CoinDesk</source>
-    <description>Inside the CME and CFTC’s battle over onchain perpetual futures</description>
   </item>
 </channel>
 </rss>
