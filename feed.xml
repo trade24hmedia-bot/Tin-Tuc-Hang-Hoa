@@ -4,7 +4,7 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Tue, 28 Jul 2026 16:20:05 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 28 Jul 2026 16:25:05 GMT</lastBuildDate>
   
   <item>
     <title>UBS cuts palladium price target on oversupply concerns</title>
@@ -29,6 +29,22 @@
     <pubDate>Tue, 28 Jul 2026 09:16:18 GMT</pubDate>
     <source>Investing - Phai sinh</source>
     <description>Why is Micron Technology stock sliding today?</description>
+  </item>
+  <item>
+    <title>Lido upgrade aims to slash Ethereum’s validator count by one-third</title>
+    <link>https://cointelegraph.com/news/lido-upgrade-ethereum-validator-count-one-third-slash?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+    <guid>https://cointelegraph.com/news/lido-upgrade-ethereum-validator-count-one-third-slash?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+    <pubDate>Tue, 28 Jul 2026 09:14:45 GMT</pubDate>
+    <source>Cointelegraph</source>
+    <description>Lido upgrade aims to slash Ethereum’s validator count by one-third</description>
+  </item>
+  <item>
+    <title>Ondo shifts from layer-1 blockchain plan to offchain execution network</title>
+    <link>https://cointelegraph.com/news/ondo-shifts-from-layer-1-blockchain-plan-to-offchain-execution-network?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+    <guid>https://cointelegraph.com/news/ondo-shifts-from-layer-1-blockchain-plan-to-offchain-execution-network?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+    <pubDate>Tue, 28 Jul 2026 09:12:14 GMT</pubDate>
+    <source>Cointelegraph</source>
+    <description>Ondo shifts from layer-1 blockchain plan to offchain execution network</description>
   </item>
   <item>
     <title>Citi initiates catalyst watch on RWE stock ahead of results</title>
@@ -149,22 +165,6 @@
     <pubDate>Tue, 28 Jul 2026 07:50:00 GMT</pubDate>
     <source>CafeF - Tai chinh QT</source>
     <description>Vỡ đập khiến hàng chục người thiệt mạng, Trung Quốc tức tốc điều tra</description>
-  </item>
-  <item>
-    <title>Live updates: Bitcoin's next move hinges on breakeven wall at $68,500; Nasdaq futures wilt</title>
-    <link>https://www.coindesk.com/markets/2026/07/28/bitcoin-recovers-from-asian-session-lows-nasdaq-futures-remain-under-pressure</link>
-    <guid>https://www.coindesk.com/markets/2026/07/28/bitcoin-recovers-from-asian-session-lows-nasdaq-futures-remain-under-pressure</guid>
-    <pubDate>Tue, 28 Jul 2026 07:46:22 GMT</pubDate>
-    <source>CoinDesk</source>
-    <description>Live updates: Bitcoin's next move hinges on breakeven wall at $68,500; Nasdaq futures wilt</description>
-  </item>
-  <item>
-    <title>Apple faces lawsuit over alleged $1.8M Bitcoin wallet app losses</title>
-    <link>https://cointelegraph.com/news/apple-lawsuit-alleged-1-8-million-loss-fake-bitcoin-wallet?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-    <guid>https://cointelegraph.com/news/apple-lawsuit-alleged-1-8-million-loss-fake-bitcoin-wallet?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-    <pubDate>Tue, 28 Jul 2026 07:40:40 GMT</pubDate>
-    <source>Cointelegraph</source>
-    <description>Apple faces lawsuit over alleged $1.8M Bitcoin wallet app losses</description>
   </item>
 </channel>
 </rss>
