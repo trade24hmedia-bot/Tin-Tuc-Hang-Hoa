@@ -4,8 +4,16 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Wed, 29 Jul 2026 11:15:06 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 29 Jul 2026 11:20:08 GMT</lastBuildDate>
   
+  <item>
+    <title>StanChart first-half profit rises 9%</title>
+    <link>https://www.investing.com/news/stock-market-news/stanchart-firsthalf-profit-rises-9-4818556</link>
+    <guid>https://www.investing.com/news/stock-market-news/stanchart-firsthalf-profit-rises-9-4818556</guid>
+    <pubDate>Wed, 29 Jul 2026 04:12:35 GMT</pubDate>
+    <source>Investing - Phai sinh</source>
+    <description>StanChart first-half profit rises 9%</description>
+  </item>
   <item>
     <title>Asia stocks slide as KOSPI sinks 8%; AI jitters, Iran attacks fuel tech rout</title>
     <link>https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-kospi-sinks-8-ai-jitters-iran-attacks-fuel-tech-rout-4818555</link>
@@ -157,14 +165,6 @@
     <pubDate>Wed, 29 Jul 2026 01:14:37 GMT</pubDate>
     <source>Investing - Hang hoa</source>
     <description>Oil rebounds over 4% as Iran attack revives supply fears, inventories tighten</description>
-  </item>
-  <item>
-    <title>Zcash says Ironwood proof rules out undetectable counterfeiting bugs</title>
-    <link>https://cointelegraph.com/news/zcash-ironwood-proof-counterfeiting-orchard-flaw?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-    <guid>https://cointelegraph.com/news/zcash-ironwood-proof-counterfeiting-orchard-flaw?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-    <pubDate>Wed, 29 Jul 2026 01:05:15 GMT</pubDate>
-    <source>Cointelegraph</source>
-    <description>Zcash says Ironwood proof rules out undetectable counterfeiting bugs</description>
   </item>
 </channel>
 </rss>
