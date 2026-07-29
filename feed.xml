@@ -4,7 +4,7 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Wed, 29 Jul 2026 18:10:05 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 29 Jul 2026 18:15:05 GMT</lastBuildDate>
   
   <item>
     <title>Rheinmetall Q2 profit beats forecasts as revenue jumps nearly 70%</title>
@@ -69,6 +69,14 @@
     <pubDate>Wed, 29 Jul 2026 11:01:03 GMT</pubDate>
     <source>Investing - Phai sinh</source>
     <description>StanChart lifts income target after wealth boom powers earnings beat</description>
+  </item>
+  <item>
+    <title>Binance disappears from Google Play in certain EU countries</title>
+    <link>https://cointelegraph.com/news/binance-disappears-android-google-play-certain-eu-countries?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+    <guid>https://cointelegraph.com/news/binance-disappears-android-google-play-certain-eu-countries?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+    <pubDate>Wed, 29 Jul 2026 11:00:04 GMT</pubDate>
+    <source>Cointelegraph</source>
+    <description>Binance disappears from Google Play in certain EU countries</description>
   </item>
   <item>
     <title>Smurfit Westrock reports Q2 sales rise amid cost pressures</title>
@@ -157,14 +165,6 @@
     <pubDate>Wed, 29 Jul 2026 10:00:00 GMT</pubDate>
     <source>Cointelegraph</source>
     <description>Crypto TradFi grows fivefold to $6.6B as exchanges expand into stocks, commodities: Report</description>
-  </item>
-  <item>
-    <title>Ionic Digital jumps 26% in Nasdaq debut, giving Celsius Network claimholders an exit route</title>
-    <link>https://www.coindesk.com/business/2026/07/29/ionic-digital-jumps-26-in-nasdaq-debut-giving-celsius-network-claimholders-an-exit-route</link>
-    <guid>https://www.coindesk.com/business/2026/07/29/ionic-digital-jumps-26-in-nasdaq-debut-giving-celsius-network-claimholders-an-exit-route</guid>
-    <pubDate>Wed, 29 Jul 2026 09:22:24 GMT</pubDate>
-    <source>CoinDesk</source>
-    <description>Ionic Digital jumps 26% in Nasdaq debut, giving Celsius Network claimholders an exit route</description>
   </item>
 </channel>
 </rss>
