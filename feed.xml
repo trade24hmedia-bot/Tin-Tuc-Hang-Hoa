@@ -4,8 +4,24 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Thu, 30 Jul 2026 05:05:07 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 30 Jul 2026 05:10:07 GMT</lastBuildDate>
   
+  <item>
+    <title>Gold rises as Fed holds rates steady, but gains capped by surge in oil prices</title>
+    <link>https://www.investing.com/news/commodities-news/gold-prices-steady-ahead-of-fed-decision-oil-rebound-revives-inflation-concerns-4818551</link>
+    <guid>https://www.investing.com/news/commodities-news/gold-prices-steady-ahead-of-fed-decision-oil-rebound-revives-inflation-concerns-4818551</guid>
+    <pubDate>Wed, 29 Jul 2026 22:01:39 GMT</pubDate>
+    <source>Investing - Hang hoa</source>
+    <description>Gold rises as Fed holds rates steady, but gains capped by surge in oil prices</description>
+  </item>
+  <item>
+    <title>Sony poised for ’GTA VI’ boost as memory prices bite</title>
+    <link>https://www.investing.com/news/stock-market-news/sony-poised-for-gta-vi-boost-as-memory-prices-bite-4818781</link>
+    <guid>https://www.investing.com/news/stock-market-news/sony-poised-for-gta-vi-boost-as-memory-prices-bite-4818781</guid>
+    <pubDate>Wed, 29 Jul 2026 22:00:44 GMT</pubDate>
+    <source>Investing - Phai sinh</source>
+    <description>Sony poised for ’GTA VI’ boost as memory prices bite</description>
+  </item>
   <item>
     <title>Casino operator MGM Resorts beats quarterly revenue estimates on Las Vegas strength</title>
     <link>https://www.investing.com/news/stock-market-news/casino-operator-mgm-resorts-beats-quarterly-revenue-estimates-on-las-vegas-strength-4821927</link>
@@ -21,6 +37,14 @@
     <pubDate>Wed, 29 Jul 2026 21:54:59 GMT</pubDate>
     <source>Investing - Phai sinh</source>
     <description>EPA weighs RFS deadline extension amid high renewable credit costs, sources say</description>
+  </item>
+  <item>
+    <title>Robinhood posts record quarter, but crypto revenue slides 38%</title>
+    <link>https://cointelegraph.com/news/robinhood-record-quarter-crypto-revenue-slides?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+    <guid>https://cointelegraph.com/news/robinhood-record-quarter-crypto-revenue-slides?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+    <pubDate>Wed, 29 Jul 2026 21:53:35 GMT</pubDate>
+    <source>Cointelegraph</source>
+    <description>Robinhood posts record quarter, but crypto revenue slides 38%</description>
   </item>
   <item>
     <title>Binance.US to attempt prediction markets entry as CFTC-licensed entity, says CEO</title>
@@ -119,14 +143,6 @@
     <description>Robinhood beats quarterly profit estimates as trading activity remains robust</description>
   </item>
   <item>
-    <title>Why is Lam Research stock surging today?</title>
-    <link>https://www.investing.com/news/stock-market-news/why-is-lam-research-stock-surging-today-93CH-4821829</link>
-    <guid>https://www.investing.com/news/stock-market-news/why-is-lam-research-stock-surging-today-93CH-4821829</guid>
-    <pubDate>Wed, 29 Jul 2026 21:10:31 GMT</pubDate>
-    <source>Investing - Phai sinh</source>
-    <description>Why is Lam Research stock surging today?</description>
-  </item>
-  <item>
     <title>Robinhood slides 4% despite earnings beat as crypto revenue cools</title>
     <link>https://www.coindesk.com/markets/2026/07/29/robinhood-slides-4-despite-earnings-beat-as-crypto-revenue-cools</link>
     <guid>https://www.coindesk.com/markets/2026/07/29/robinhood-slides-4-despite-earnings-beat-as-crypto-revenue-cools</guid>
@@ -149,22 +165,6 @@
     <pubDate>Wed, 29 Jul 2026 20:12:33 GMT</pubDate>
     <source>Investing - Hang hoa</source>
     <description>Trump says will hit Iran hard after attack, was briefed on Egypt tanker</description>
-  </item>
-  <item>
-    <title>Tennessee county passes another ban on crypto operations</title>
-    <link>https://cointelegraph.com/news/tennessee-county-ban-crypto-operations?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-    <guid>https://cointelegraph.com/news/tennessee-county-ban-crypto-operations?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-    <pubDate>Wed, 29 Jul 2026 20:11:27 GMT</pubDate>
-    <source>Cointelegraph</source>
-    <description>Tennessee county passes another ban on crypto operations</description>
-  </item>
-  <item>
-    <title>US prosecutors propose changes to CLARITY as voting window narrows: Report</title>
-    <link>https://cointelegraph.com/news/clarity-act-changes-law-enforcement-voting-narrows?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-    <guid>https://cointelegraph.com/news/clarity-act-changes-law-enforcement-voting-narrows?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-    <pubDate>Wed, 29 Jul 2026 19:43:29 GMT</pubDate>
-    <source>Cointelegraph</source>
-    <description>US prosecutors propose changes to CLARITY as voting window narrows: Report</description>
   </item>
 </channel>
 </rss>
