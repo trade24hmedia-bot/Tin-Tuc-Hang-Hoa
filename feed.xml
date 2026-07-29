@@ -4,7 +4,7 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Thu, 30 Jul 2026 03:20:05 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 30 Jul 2026 03:25:06 GMT</lastBuildDate>
   
   <item>
     <title>Arm Holdings beats Q1 estimates, shares fall in after-hours</title>
@@ -29,6 +29,14 @@
     <pubDate>Wed, 29 Jul 2026 20:12:33 GMT</pubDate>
     <source>Investing - Hang hoa</source>
     <description>Trump says will hit Iran hard after attack, was briefed on Egypt tanker</description>
+  </item>
+  <item>
+    <title>Tennessee county passes another ban on crypto operations</title>
+    <link>https://cointelegraph.com/news/tennessee-county-ban-crypto-operations?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+    <guid>https://cointelegraph.com/news/tennessee-county-ban-crypto-operations?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+    <pubDate>Wed, 29 Jul 2026 20:11:27 GMT</pubDate>
+    <source>Cointelegraph</source>
+    <description>Tennessee county passes another ban on crypto operations</description>
   </item>
   <item>
     <title>Stocks slide on extended chip slump, rising oil prices, and fractured Fed decision</title>
@@ -157,14 +165,6 @@
     <pubDate>Wed, 29 Jul 2026 18:25:00 GMT</pubDate>
     <source>CafeF - Tai chinh QT</source>
     <description>Fed giữ nguyên lãi suất nhưng nội bộ chia rẽ hiếm thấy, 3 thành viên bỏ phiếu phản đối</description>
-  </item>
-  <item>
-    <title>Gold jumps over 1% as Fed holds rates steady, dollar weakens</title>
-    <link>https://www.investing.com/news/commodities-news/gold-prices-steady-ahead-of-fed-decision-oil-rebound-revives-inflation-concerns-4818551</link>
-    <guid>https://www.investing.com/news/commodities-news/gold-prices-steady-ahead-of-fed-decision-oil-rebound-revives-inflation-concerns-4818551</guid>
-    <pubDate>Wed, 29 Jul 2026 18:12:21 GMT</pubDate>
-    <source>Investing - Hang hoa</source>
-    <description>Gold jumps over 1% as Fed holds rates steady, dollar weakens</description>
   </item>
 </channel>
 </rss>
