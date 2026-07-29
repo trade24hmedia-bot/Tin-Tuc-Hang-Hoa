@@ -4,7 +4,7 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Wed, 29 Jul 2026 14:20:06 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 29 Jul 2026 14:25:06 GMT</lastBuildDate>
   
   <item>
     <title>Severfield order books rise as data centre projects boost visibility</title>
@@ -21,6 +21,14 @@
     <pubDate>Wed, 29 Jul 2026 07:13:00 GMT</pubDate>
     <source>Investing - Phai sinh</source>
     <description>European stocks rise as robust earnings offset Fed rate-hike fears</description>
+  </item>
+  <item>
+    <title>UK policy sprint finds cross-border payments are stablecoins’ top use case</title>
+    <link>https://cointelegraph.com/news/uk-policy-cross-border-payments-stablecoins-use-case?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+    <guid>https://cointelegraph.com/news/uk-policy-cross-border-payments-stablecoins-use-case?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+    <pubDate>Wed, 29 Jul 2026 07:11:27 GMT</pubDate>
+    <source>Cointelegraph</source>
+    <description>UK policy sprint finds cross-border payments are stablecoins’ top use case</description>
   </item>
   <item>
     <title>SK Hynix’s record profit misses forecasts, shares slump 10% despite robust AI chip demand</title>
@@ -157,14 +165,6 @@
     <pubDate>Wed, 29 Jul 2026 06:25:21 GMT</pubDate>
     <source>CoinDesk</source>
     <description>Live updates: Bitcoin clears $64,000 in Asia hours ahead of Fed decision</description>
-  </item>
-  <item>
-    <title>Oil climbs as U.S.-Saudi strikes revive supply fears, inventories tighten</title>
-    <link>https://www.investing.com/news/commodities-news/oil-rebounds-over-4-on-inventory-draw-opec-hopes-iran-strike-clouds-outlook-4818468</link>
-    <guid>https://www.investing.com/news/commodities-news/oil-rebounds-over-4-on-inventory-draw-opec-hopes-iran-strike-clouds-outlook-4818468</guid>
-    <pubDate>Wed, 29 Jul 2026 06:08:44 GMT</pubDate>
-    <source>Investing - Hang hoa</source>
-    <description>Oil climbs as U.S.-Saudi strikes revive supply fears, inventories tighten</description>
   </item>
 </channel>
 </rss>
