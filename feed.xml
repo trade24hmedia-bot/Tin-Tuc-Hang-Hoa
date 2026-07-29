@@ -4,7 +4,7 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Wed, 29 Jul 2026 22:20:05 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 29 Jul 2026 22:25:05 GMT</lastBuildDate>
   
   <item>
     <title>Coinbase hit by spot trading slump: Wall Street trims expectations ahead of earnings</title>
@@ -13,6 +13,14 @@
     <pubDate>Wed, 29 Jul 2026 15:15:08 GMT</pubDate>
     <source>CoinDesk</source>
     <description>Coinbase hit by spot trading slump: Wall Street trims expectations ahead of earnings</description>
+  </item>
+  <item>
+    <title>NASA phát hiện phân tử hữu cơ phức tạp trên Sao Hỏa</title>
+    <link>https://cafef.vn/nasa-phat-hien-phan-tu-huu-co-phuc-tap-tren-sao-hoa-188260729213612006.chn</link>
+    <guid>https://cafef.vn/nasa-phat-hien-phan-tu-huu-co-phuc-tap-tren-sao-hoa-188260729213612006.chn</guid>
+    <pubDate>Wed, 29 Jul 2026 15:15:00 GMT</pubDate>
+    <source>CafeF - Tai chinh QT</source>
+    <description>NASA phát hiện phân tử hữu cơ phức tạp trên Sao Hỏa</description>
   </item>
   <item>
     <title>X, World Federation of Advertisers settle litigation over GARM dispute</title>
@@ -157,14 +165,6 @@
     <pubDate>Wed, 29 Jul 2026 14:02:18 GMT</pubDate>
     <source>Investing - Hang hoa</source>
     <description>Gold falls as firm dollar, Treasury yields weigh ahead of Fed decision</description>
-  </item>
-  <item>
-    <title>The inside story of how a hike in Hong Kong changed crypto trading forever</title>
-    <link>https://www.coindesk.com/business/2026/07/29/the-inside-story-of-how-a-hike-in-hong-kong-changed-crypto-trading-forever</link>
-    <guid>https://www.coindesk.com/business/2026/07/29/the-inside-story-of-how-a-hike-in-hong-kong-changed-crypto-trading-forever</guid>
-    <pubDate>Wed, 29 Jul 2026 13:53:01 GMT</pubDate>
-    <source>CoinDesk</source>
-    <description>The inside story of how a hike in Hong Kong changed crypto trading forever</description>
   </item>
 </channel>
 </rss>
