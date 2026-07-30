@@ -4,7 +4,7 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Thu, 30 Jul 2026 14:10:05 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 30 Jul 2026 14:15:05 GMT</lastBuildDate>
   
   <item>
     <title>With fields destroyed and hives lost, Gaza’s beekeepers struggle to start over</title>
@@ -21,6 +21,14 @@
     <pubDate>Thu, 30 Jul 2026 07:06:24 GMT</pubDate>
     <source>Investing - Phai sinh</source>
     <description>Mondi posts Q2 results above expectations, cuts capex guidance</description>
+  </item>
+  <item>
+    <title>Bitcoin ETF inflows return as Ether funds slip into outflows</title>
+    <link>https://cointelegraph.com/markets/bitcoin-etf-inflows-return-ether-funds-outflows?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+    <guid>https://cointelegraph.com/markets/bitcoin-etf-inflows-return-ether-funds-outflows?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+    <pubDate>Thu, 30 Jul 2026 07:05:23 GMT</pubDate>
+    <source>Cointelegraph</source>
+    <description>Bitcoin ETF inflows return as Ether funds slip into outflows</description>
   </item>
   <item>
     <title>Gold trapped in $3,955-$4,170 range, oversold: Live levels</title>
@@ -127,12 +135,12 @@
     <description>US military says it hit dozens of Iran’s IRGC targets</description>
   </item>
   <item>
-    <title>Bitcoin analysts agree the Fed's hold was hawkish. They don't agree on what happens next.</title>
+    <title>Bitcoin analysts agree the Fed's hold was hawkish. They are split on what happens next.</title>
     <link>https://www.coindesk.com/markets/2026/07/30/bitcoin-analysts-agree-the-fed-s-hold-was-hawkish-they-don-t-agree-on-what-happens-next</link>
     <guid>https://www.coindesk.com/markets/2026/07/30/bitcoin-analysts-agree-the-fed-s-hold-was-hawkish-they-don-t-agree-on-what-happens-next</guid>
     <pubDate>Thu, 30 Jul 2026 06:28:58 GMT</pubDate>
     <source>CoinDesk</source>
-    <description>Bitcoin analysts agree the Fed's hold was hawkish. They don't agree on what happens next.</description>
+    <description>Bitcoin analysts agree the Fed's hold was hawkish. They are split on what happens next.</description>
   </item>
   <item>
     <title>Drone hits gas storage tanker at Egypt’s Mediterranean port, Ambrey reports</title>
@@ -157,14 +165,6 @@
     <pubDate>Thu, 30 Jul 2026 05:40:00 GMT</pubDate>
     <source>CafeF - Tai chinh QT</source>
     <description>YouTuber nổi tiếng được phát hiện tử vong trong khách sạn sau hơn 2 tuần mất liên lạc: Tiết lộ danh tính</description>
-  </item>
-  <item>
-    <title>South Korea report proposes stablecoin rules before crypto law</title>
-    <link>https://cointelegraph.com/news/south-korea-report-stablecoin-rules-crypto-law?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-    <guid>https://cointelegraph.com/news/south-korea-report-stablecoin-rules-crypto-law?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-    <pubDate>Thu, 30 Jul 2026 05:33:57 GMT</pubDate>
-    <source>Cointelegraph</source>
-    <description>South Korea report proposes stablecoin rules before crypto law</description>
   </item>
 </channel>
 </rss>
