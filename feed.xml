@@ -4,8 +4,16 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Fri, 31 Jul 2026 03:20:05 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 31 Jul 2026 03:25:05 GMT</lastBuildDate>
   
+  <item>
+    <title>Coinbase sinks 5% after missing second quarter revenue estimates</title>
+    <link>https://www.coindesk.com/markets/2026/07/30/coinbase-sinks-5-after-missing-q2-revenue-estimates</link>
+    <guid>https://www.coindesk.com/markets/2026/07/30/coinbase-sinks-5-after-missing-q2-revenue-estimates</guid>
+    <pubDate>Thu, 30 Jul 2026 20:18:33 GMT</pubDate>
+    <source>CoinDesk</source>
+    <description>Coinbase sinks 5% after missing second quarter revenue estimates</description>
+  </item>
   <item>
     <title>Rivian beats quarterly revenue estimates as R2 launch, software business gain traction</title>
     <link>https://www.investing.com/news/stock-market-news/rivian-beats-quarterly-revenue-estimates-as-r2-launch-software-business-gain-traction-4826050</link>
@@ -157,14 +165,6 @@
     <pubDate>Thu, 30 Jul 2026 18:46:19 GMT</pubDate>
     <source>Investing - Hang hoa</source>
     <description>Gold futures rise 1.58% to snap two-session decline</description>
-  </item>
-  <item>
-    <title>China coal share drops below 50% of electricity mix</title>
-    <link>https://www.investing.com/news/commodities-news/china-coal-share-drops-below-50-of-electricity-mix-93CH-4825835</link>
-    <guid>https://www.investing.com/news/commodities-news/china-coal-share-drops-below-50-of-electricity-mix-93CH-4825835</guid>
-    <pubDate>Thu, 30 Jul 2026 18:04:50 GMT</pubDate>
-    <source>Investing - Hang hoa</source>
-    <description>China coal share drops below 50% of electricity mix</description>
   </item>
 </channel>
 </rss>
