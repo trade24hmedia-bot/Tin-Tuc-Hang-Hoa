@@ -4,7 +4,7 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Thu, 30 Jul 2026 23:10:06 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 30 Jul 2026 23:15:05 GMT</lastBuildDate>
   
   <item>
     <title>Portugal stocks higher at close of trade; PSI up 1.07%</title>
@@ -69,6 +69,22 @@
     <pubDate>Thu, 30 Jul 2026 16:06:36 GMT</pubDate>
     <source>Investing - Phai sinh</source>
     <description>ABC says FCC seeks to intimidate network over news coverage</description>
+  </item>
+  <item>
+    <title>Germany stocks mixed at close of trade; DAX up 0.45%</title>
+    <link>https://www.investing.com/news/stock-market-news/germany-stocks-mixed-at-close-of-trade-dax-up-045-4825467</link>
+    <guid>https://www.investing.com/news/stock-market-news/germany-stocks-mixed-at-close-of-trade-dax-up-045-4825467</guid>
+    <pubDate>Thu, 30 Jul 2026 16:06:20 GMT</pubDate>
+    <source>Investing - Phai sinh</source>
+    <description>Germany stocks mixed at close of trade; DAX up 0.45%</description>
+  </item>
+  <item>
+    <title>France stocks higher at close of trade; CAC 40 up 0.92%</title>
+    <link>https://www.investing.com/news/stock-market-news/france-stocks-higher-at-close-of-trade-cac-40-up-092-4825465</link>
+    <guid>https://www.investing.com/news/stock-market-news/france-stocks-higher-at-close-of-trade-cac-40-up-092-4825465</guid>
+    <pubDate>Thu, 30 Jul 2026 16:05:33 GMT</pubDate>
+    <source>Investing - Phai sinh</source>
+    <description>France stocks higher at close of trade; CAC 40 up 0.92%</description>
   </item>
   <item>
     <title>Ondo Finance weighs acquisition worth up to $500 million</title>
@@ -149,22 +165,6 @@
     <pubDate>Thu, 30 Jul 2026 14:35:00 GMT</pubDate>
     <source>CafeF - Tai chinh QT</source>
     <description>Đức công bố số người tử vong gây bất ngờ sau những đợt nắng nóng kéo dài</description>
-  </item>
-  <item>
-    <title>CME's Duffy warns an overlooked tax risk looms over U.S. perpetual futures</title>
-    <link>https://www.coindesk.com/policy/2026/07/30/cme-s-duffy-warns-an-overlooked-tax-risk-looms-over-u-s-perpetual-futures</link>
-    <guid>https://www.coindesk.com/policy/2026/07/30/cme-s-duffy-warns-an-overlooked-tax-risk-looms-over-u-s-perpetual-futures</guid>
-    <pubDate>Thu, 30 Jul 2026 14:33:02 GMT</pubDate>
-    <source>CoinDesk</source>
-    <description>CME's Duffy warns an overlooked tax risk looms over U.S. perpetual futures</description>
-  </item>
-  <item>
-    <title>The economics behind Aave proposal to ditch 6 chains that earn loose change in revenue</title>
-    <link>https://www.coindesk.com/tech/2026/07/30/the-economics-behind-the-aave-proposal-to-ditch-6-chains-that-earn-chump-change</link>
-    <guid>https://www.coindesk.com/tech/2026/07/30/the-economics-behind-the-aave-proposal-to-ditch-6-chains-that-earn-chump-change</guid>
-    <pubDate>Thu, 30 Jul 2026 14:25:41 GMT</pubDate>
-    <source>CoinDesk</source>
-    <description>The economics behind Aave proposal to ditch 6 chains that earn loose change in revenue</description>
   </item>
 </channel>
 </rss>
