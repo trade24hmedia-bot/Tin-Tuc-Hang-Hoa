@@ -4,8 +4,16 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Sat, 01 Aug 2026 01:25:05 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 01 Aug 2026 01:35:05 GMT</lastBuildDate>
   
+  <item>
+    <title>Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half</title>
+    <link>https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half</link>
+    <guid>https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half</guid>
+    <pubDate>Fri, 31 Jul 2026 18:24:55 GMT</pubDate>
+    <source>CoinDesk</source>
+    <description>Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half</description>
+  </item>
   <item>
     <title>Exclusive-Trump’s powerful but unofficial Venezuela adviser leaves his role</title>
     <link>https://www.investing.com/news/commodities-news/exclusivetrumps-powerful-but-unofficial-venezuela-adviser-leaves-his-role-4829056</link>
@@ -157,14 +165,6 @@
     <pubDate>Fri, 31 Jul 2026 17:20:56 GMT</pubDate>
     <source>Investing - Hang hoa</source>
     <description>European wheat futures drop as traders take profits</description>
-  </item>
-  <item>
-    <title>Coldcard's $38 million (so far) exploit shakes faith in self-custody, may push investors to ETFs</title>
-    <link>https://www.coindesk.com/business/2026/07/31/coldcard-s-usd38-million-so-far-exploit-shakes-faith-in-self-custody-may-push-investors-to-etfs</link>
-    <guid>https://www.coindesk.com/business/2026/07/31/coldcard-s-usd38-million-so-far-exploit-shakes-faith-in-self-custody-may-push-investors-to-etfs</guid>
-    <pubDate>Fri, 31 Jul 2026 17:07:30 GMT</pubDate>
-    <source>CoinDesk</source>
-    <description>Coldcard's $38 million (so far) exploit shakes faith in self-custody, may push investors to ETFs</description>
   </item>
 </channel>
 </rss>
