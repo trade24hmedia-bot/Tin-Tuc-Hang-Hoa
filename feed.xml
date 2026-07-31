@@ -4,8 +4,16 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Sat, 01 Aug 2026 04:15:06 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 01 Aug 2026 04:20:05 GMT</lastBuildDate>
   
+  <item>
+    <title>Chicago wheat posts first monthly gain in three months</title>
+    <link>https://www.investing.com/news/commodities-news/chicago-wheat-posts-first-monthly-gain-in-three-months-93CH-4829289</link>
+    <guid>https://www.investing.com/news/commodities-news/chicago-wheat-posts-first-monthly-gain-in-three-months-93CH-4829289</guid>
+    <pubDate>Fri, 31 Jul 2026 21:10:17 GMT</pubDate>
+    <source>Investing - Hang hoa</source>
+    <description>Chicago wheat posts first monthly gain in three months</description>
+  </item>
   <item>
     <title>George Santos ordered to pay $35,000 for manipulative trading</title>
     <link>https://www.investing.com/news/stock-market-news/george-santos-ordered-to-pay-35000-for-manipulative-trading-93CH-4829288</link>
@@ -157,14 +165,6 @@
     <pubDate>Fri, 31 Jul 2026 18:36:44 GMT</pubDate>
     <source>Investing - Hang hoa</source>
     <description>Trump hails Gaza deal, while Hamas and Israeli officials see hurdles</description>
-  </item>
-  <item>
-    <title>Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half</title>
-    <link>https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half</link>
-    <guid>https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half</guid>
-    <pubDate>Fri, 31 Jul 2026 18:24:55 GMT</pubDate>
-    <source>CoinDesk</source>
-    <description>Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half</description>
   </item>
 </channel>
 </rss>
