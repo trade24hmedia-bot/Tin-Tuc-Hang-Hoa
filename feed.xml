@@ -4,8 +4,16 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Sun, 02 Aug 2026 03:10:05 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 02 Aug 2026 03:15:05 GMT</lastBuildDate>
   
+  <item>
+    <title>Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million</title>
+    <link>https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million</link>
+    <guid>https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million</guid>
+    <pubDate>Sat, 01 Aug 2026 20:10:54 GMT</pubDate>
+    <source>CoinDesk</source>
+    <description>Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million</description>
+  </item>
   <item>
     <title>US Justice Department subpoenas New York Times freelancer over North Korea story, paper says</title>
     <link>https://www.investing.com/news/stock-market-news/us-justice-department-subpoenas-new-york-times-freelancer-over-north-korea-story-paper-says-4829645</link>
@@ -157,14 +165,6 @@
     <pubDate>Sat, 01 Aug 2026 12:24:34 GMT</pubDate>
     <source>Investing - Phai sinh</source>
     <description>Russia pounds Kyiv, kills 10 as Ukraine appeals for Patriot interceptors</description>
-  </item>
-  <item>
-    <title>Tàu chở dầu bất ngờ trúng vật thể lạ ngoài khơi Oman</title>
-    <link>https://cafef.vn/tau-cho-dau-bat-ngo-trung-vat-the-la-ngoai-khoi-oman-188260801192411619.chn</link>
-    <guid>https://cafef.vn/tau-cho-dau-bat-ngo-trung-vat-the-la-ngoai-khoi-oman-188260801192411619.chn</guid>
-    <pubDate>Sat, 01 Aug 2026 12:24:00 GMT</pubDate>
-    <source>CafeF - Tai chinh QT</source>
-    <description>Tàu chở dầu bất ngờ trúng vật thể lạ ngoài khơi Oman</description>
   </item>
 </channel>
 </rss>
