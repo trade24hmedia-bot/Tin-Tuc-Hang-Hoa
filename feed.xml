@@ -4,8 +4,16 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Sun, 02 Aug 2026 04:25:05 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 02 Aug 2026 04:30:06 GMT</lastBuildDate>
   
+  <item>
+    <title>Onchain, in court: What happened in crypto legal news this week</title>
+    <link>https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+    <guid>https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+    <pubDate>Sat, 01 Aug 2026 21:14:39 GMT</pubDate>
+    <source>Cointelegraph</source>
+    <description>Onchain, in court: What happened in crypto legal news this week</description>
+  </item>
   <item>
     <title>What does the China reset mean for the Nike business?</title>
     <link>https://www.investing.com/news/stock-market-news/what-does-the-china-reset-mean-for-the-nike-business-4829652</link>
@@ -157,14 +165,6 @@
     <pubDate>Sat, 01 Aug 2026 13:00:00 GMT</pubDate>
     <source>CoinDesk</source>
     <description>Solana Foundation's new CISO warns AI is making crypto scams more convincing</description>
-  </item>
-  <item>
-    <title>Everyone has the perps convergence backwards</title>
-    <link>https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards</link>
-    <guid>https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards</guid>
-    <pubDate>Sat, 01 Aug 2026 13:00:00 GMT</pubDate>
-    <source>CoinDesk</source>
-    <description>Everyone has the perps convergence backwards</description>
   </item>
 </channel>
 </rss>
