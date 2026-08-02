@@ -4,8 +4,16 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Mon, 03 Aug 2026 00:00:05 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 03 Aug 2026 00:05:07 GMT</lastBuildDate>
   
+  <item>
+    <title>Why a DeFi platform ditched its consumer app to become the secret backend for tech giants</title>
+    <link>https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants</link>
+    <guid>https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants</guid>
+    <pubDate>Sun, 02 Aug 2026 17:00:00 GMT</pubDate>
+    <source>CoinDesk</source>
+    <description>Why a DeFi platform ditched its consumer app to become the secret backend for tech giants</description>
+  </item>
   <item>
     <title>Two helicopters collide as Greece battles wildfires, Hungary shuts nuclear plant</title>
     <link>https://www.investing.com/news/commodities-news/greece-battles-wildfires-hungary-shuts-nuclear-power-plant-due-to-drought-4829687</link>
@@ -157,14 +165,6 @@
     <pubDate>Sun, 02 Aug 2026 11:56:35 GMT</pubDate>
     <source>Cointelegraph</source>
     <description>Here’s what happened in crypto today</description>
-  </item>
-  <item>
-    <title>OPEC+ members agree to September quota hike</title>
-    <link>https://www.investing.com/news/commodities-news/opec-members-agree-to-september-quota-hike-4829688</link>
-    <guid>https://www.investing.com/news/commodities-news/opec-members-agree-to-september-quota-hike-4829688</guid>
-    <pubDate>Sun, 02 Aug 2026 11:47:06 GMT</pubDate>
-    <source>Investing - Hang hoa</source>
-    <description>OPEC+ members agree to September quota hike</description>
   </item>
 </channel>
 </rss>
