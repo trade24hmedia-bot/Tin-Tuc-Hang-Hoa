@@ -4,8 +4,16 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Mon, 03 Aug 2026 22:00:05 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 03 Aug 2026 22:05:06 GMT</lastBuildDate>
   
+  <item>
+    <title>Giá dầu giảm gần 5%</title>
+    <link>https://cafef.vn/gia-dau-giam-gan-5-188260803215212095.chn</link>
+    <guid>https://cafef.vn/gia-dau-giam-gan-5-188260803215212095.chn</guid>
+    <pubDate>Mon, 03 Aug 2026 14:59:00 GMT</pubDate>
+    <source>CafeF - Tai chinh QT</source>
+    <description>Giá dầu giảm gần 5%</description>
+  </item>
   <item>
     <title>Mazda North America reports July sales down 13% year-over-year</title>
     <link>https://www.investing.com/news/stock-market-news/mazda-north-america-reports-july-sales-down-13-yearoveryear-93CH-4831753</link>
@@ -95,6 +103,14 @@
     <description>KKR closes $19.2 billion infrastructure fund for North America, Europe</description>
   </item>
   <item>
+    <title>Chinese copper foil giant Londian Wason eyes $1.7 billion valuation in US IPO</title>
+    <link>https://www.investing.com/news/stock-market-news/chinese-copper-foil-giant-londian-wason-eyes-17-billion-valuation-in-us-ipo-4830427</link>
+    <guid>https://www.investing.com/news/stock-market-news/chinese-copper-foil-giant-londian-wason-eyes-17-billion-valuation-in-us-ipo-4830427</guid>
+    <pubDate>Mon, 03 Aug 2026 14:42:29 GMT</pubDate>
+    <source>Investing - Phai sinh</source>
+    <description>Chinese copper foil giant Londian Wason eyes $1.7 billion valuation in US IPO</description>
+  </item>
+  <item>
     <title>US hints at more yen intervention: Five things to know in Bitcoin this week</title>
     <link>https://cointelegraph.com/markets/us-hints-at-more-yen-intervention-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
     <guid>https://cointelegraph.com/markets/us-hints-at-more-yen-intervention-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
@@ -149,22 +165,6 @@
     <pubDate>Mon, 03 Aug 2026 13:30:00 GMT</pubDate>
     <source>Cointelegraph</source>
     <description>How Fake World Assets and onchain gacha became crypto’s latest craze</description>
-  </item>
-  <item>
-    <title>Nhân tố mới trong cuộc chiến Mỹ - Iran</title>
-    <link>https://cafef.vn/nhan-to-moi-trong-cuoc-chien-my-iran-188260803153025961.chn</link>
-    <guid>https://cafef.vn/nhan-to-moi-trong-cuoc-chien-my-iran-188260803153025961.chn</guid>
-    <pubDate>Mon, 03 Aug 2026 13:26:00 GMT</pubDate>
-    <source>CafeF - Tai chinh QT</source>
-    <description>Nhân tố mới trong cuộc chiến Mỹ - Iran</description>
-  </item>
-  <item>
-    <title>Here’s what happened in crypto today</title>
-    <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-    <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-    <pubDate>Mon, 03 Aug 2026 13:17:41 GMT</pubDate>
-    <source>Cointelegraph</source>
-    <description>Here’s what happened in crypto today</description>
   </item>
 </channel>
 </rss>
