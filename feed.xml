@@ -4,7 +4,7 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Mon, 03 Aug 2026 22:20:05 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 03 Aug 2026 22:25:05 GMT</lastBuildDate>
   
   <item>
     <title>Wall Street surges to kick off August as Trump touts Iran negotiations</title>
@@ -13,6 +13,14 @@
     <pubDate>Mon, 03 Aug 2026 15:15:26 GMT</pubDate>
     <source>Investing - Phai sinh</source>
     <description>Wall Street surges to kick off August as Trump touts Iran negotiations</description>
+  </item>
+  <item>
+    <title>Tên lửa SpaceX trôi dạt có nguy cơ va chạm với Mặt Trăng</title>
+    <link>https://cafef.vn/ten-lua-spacex-troi-dat-co-nguy-co-va-cham-voi-mat-trang-188260802135047618.chn</link>
+    <guid>https://cafef.vn/ten-lua-spacex-troi-dat-co-nguy-co-va-cham-voi-mat-trang-188260802135047618.chn</guid>
+    <pubDate>Mon, 03 Aug 2026 15:14:00 GMT</pubDate>
+    <source>CafeF - Tai chinh QT</source>
+    <description>Tên lửa SpaceX trôi dạt có nguy cơ va chạm với Mặt Trăng</description>
   </item>
   <item>
     <title>Why is Ares Management stock surging today?</title>
@@ -157,14 +165,6 @@
     <pubDate>Mon, 03 Aug 2026 13:54:41 GMT</pubDate>
     <source>Investing - Hang hoa</source>
     <description>Gold pares gains as conflicting U.S.-Iran signals cloud outlook</description>
-  </item>
-  <item>
-    <title>Oil falls over 5% as Trump calls off Iran strike, announces fresh talks</title>
-    <link>https://www.investing.com/news/commodities-news/oil-drops-to-3wk-low-as-trump-calls-off-iran-strike-announces-fresh-talks-4829733</link>
-    <guid>https://www.investing.com/news/commodities-news/oil-drops-to-3wk-low-as-trump-calls-off-iran-strike-announces-fresh-talks-4829733</guid>
-    <pubDate>Mon, 03 Aug 2026 13:51:52 GMT</pubDate>
-    <source>Investing - Hang hoa</source>
-    <description>Oil falls over 5% as Trump calls off Iran strike, announces fresh talks</description>
   </item>
 </channel>
 </rss>
