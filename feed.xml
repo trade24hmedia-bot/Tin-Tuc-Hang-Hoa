@@ -4,8 +4,24 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Tue, 04 Aug 2026 03:55:08 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 04 Aug 2026 04:00:05 GMT</lastBuildDate>
   
+  <item>
+    <title>US oil exports in July fall to lowest level in eight months, data shows</title>
+    <link>https://www.investing.com/news/commodities-news/us-oil-exports-in-july-fall-to-lowest-level-in-eight-months-data-shows-4832367</link>
+    <guid>https://www.investing.com/news/commodities-news/us-oil-exports-in-july-fall-to-lowest-level-in-eight-months-data-shows-4832367</guid>
+    <pubDate>Mon, 03 Aug 2026 20:55:10 GMT</pubDate>
+    <source>Investing - Hang hoa</source>
+    <description>US oil exports in July fall to lowest level in eight months, data shows</description>
+  </item>
+  <item>
+    <title>Palantir lifts annual revenue forecast as data analytics spending booms</title>
+    <link>https://www.investing.com/news/stock-market-news/palantir-raises-annual-revenue-forecast-on-strong-demand-from-us-government-commercial-customers-4832191</link>
+    <guid>https://www.investing.com/news/stock-market-news/palantir-raises-annual-revenue-forecast-on-strong-demand-from-us-government-commercial-customers-4832191</guid>
+    <pubDate>Mon, 03 Aug 2026 20:54:32 GMT</pubDate>
+    <source>Investing - Phai sinh</source>
+    <description>Palantir lifts annual revenue forecast as data analytics spending booms</description>
+  </item>
   <item>
     <title>After-Hours Stock Movers: PLTR, SNAP, ON, ICHR, WGS, WHR</title>
     <link>https://www.investing.com/news/stock-market-news/afterhours-stock-movers-pltr-snap-on-ichr-wgs-whr-432SI-4832326</link>
@@ -13,6 +29,14 @@
     <pubDate>Mon, 03 Aug 2026 20:38:01 GMT</pubDate>
     <source>Investing - Phai sinh</source>
     <description>After-Hours Stock Movers: PLTR, SNAP, ON, ICHR, WGS, WHR</description>
+  </item>
+  <item>
+    <title>Apnimed raises $220.8M in upsized Nasdaq IPO</title>
+    <link>https://www.investing.com/news/stock-market-news/apnimed-raises-2208m-in-upsized-nasdaq-ipo-432SI-4832327</link>
+    <guid>https://www.investing.com/news/stock-market-news/apnimed-raises-2208m-in-upsized-nasdaq-ipo-432SI-4832327</guid>
+    <pubDate>Mon, 03 Aug 2026 20:37:25 GMT</pubDate>
+    <source>Investing - Phai sinh</source>
+    <description>Apnimed raises $220.8M in upsized Nasdaq IPO</description>
   </item>
   <item>
     <title>Fed survey shows unchanged business lending standards in Q2</title>
@@ -79,22 +103,6 @@
     <description>Bessent’s top crypto adviser Tyler Williams exits US Treasury: Report</description>
   </item>
   <item>
-    <title>Danaher stock rises after naming new CEO, backing guidance</title>
-    <link>https://www.investing.com/news/stock-market-news/danaher-stock-rises-after-naming-new-ceo-backing-guidance-93CH-4832266</link>
-    <guid>https://www.investing.com/news/stock-market-news/danaher-stock-rises-after-naming-new-ceo-backing-guidance-93CH-4832266</guid>
-    <pubDate>Mon, 03 Aug 2026 20:25:49 GMT</pubDate>
-    <source>Investing - Phai sinh</source>
-    <description>Danaher stock rises after naming new CEO, backing guidance</description>
-  </item>
-  <item>
-    <title>Palantir raises annual revenue forecast on strong demand from US government, commercial customers</title>
-    <link>https://www.investing.com/news/stock-market-news/palantir-raises-annual-revenue-forecast-on-strong-demand-from-us-government-commercial-customers-4832191</link>
-    <guid>https://www.investing.com/news/stock-market-news/palantir-raises-annual-revenue-forecast-on-strong-demand-from-us-government-commercial-customers-4832191</guid>
-    <pubDate>Mon, 03 Aug 2026 20:25:03 GMT</pubDate>
-    <source>Investing - Phai sinh</source>
-    <description>Palantir raises annual revenue forecast on strong demand from US government, commercial customers</description>
-  </item>
-  <item>
     <title>Here’s what happened in crypto today</title>
     <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
     <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
@@ -157,14 +165,6 @@
     <pubDate>Mon, 03 Aug 2026 16:54:31 GMT</pubDate>
     <source>Investing - Hang hoa</source>
     <description>Chinese state traders make large US soybean purchases</description>
-  </item>
-  <item>
-    <title>Kenya moves 30 million academic credentials onto Avalanche blockchain</title>
-    <link>https://cointelegraph.com/news/kenya-avalanche-blockchain-academic-credentials-verification?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-    <guid>https://cointelegraph.com/news/kenya-avalanche-blockchain-academic-credentials-verification?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-    <pubDate>Mon, 03 Aug 2026 16:46:22 GMT</pubDate>
-    <source>Cointelegraph</source>
-    <description>Kenya moves 30 million academic credentials onto Avalanche blockchain</description>
   </item>
 </channel>
 </rss>
