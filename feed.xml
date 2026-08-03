@@ -4,7 +4,7 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Mon, 03 Aug 2026 19:30:06 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 03 Aug 2026 19:35:05 GMT</lastBuildDate>
   
   <item>
     <title>Bank of Korea to buy gold from local producers</title>
@@ -21,6 +21,14 @@
     <pubDate>Mon, 03 Aug 2026 12:24:08 GMT</pubDate>
     <source>Investing - Phai sinh</source>
     <description>Strategy is prioritizing liquidity over bitcoin accumulation</description>
+  </item>
+  <item>
+    <title>Bithumb sets 2028 IPO timetable as it overhauls internal controls</title>
+    <link>https://cointelegraph.com/news/bithumb-ipo-timetable-internal-controls?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+    <guid>https://cointelegraph.com/news/bithumb-ipo-timetable-internal-controls?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+    <pubDate>Mon, 03 Aug 2026 12:21:19 GMT</pubDate>
+    <source>Cointelegraph</source>
+    <description>Bithumb sets 2028 IPO timetable as it overhauls internal controls</description>
   </item>
   <item>
     <title>Morgan Stanley updates European property sector performance data</title>
@@ -157,14 +165,6 @@
     <pubDate>Mon, 03 Aug 2026 11:40:09 GMT</pubDate>
     <source>Cointelegraph</source>
     <description>Trumps’ American Bitcoin reports record BTC output, narrower Q2 loss</description>
-  </item>
-  <item>
-    <title>Solo Bitcoin miner nets $200,000 as Coldcard hardware wallet drains rocks sentiment</title>
-    <link>https://www.coindesk.com/daybook-us/2026/08/03/solo-bitcoin-miner-nets-usd200-000-as-coldcard-hardware-wallet-drains-rocks-sentiment</link>
-    <guid>https://www.coindesk.com/daybook-us/2026/08/03/solo-bitcoin-miner-nets-usd200-000-as-coldcard-hardware-wallet-drains-rocks-sentiment</guid>
-    <pubDate>Mon, 03 Aug 2026 11:18:31 GMT</pubDate>
-    <source>CoinDesk</source>
-    <description>Solo Bitcoin miner nets $200,000 as Coldcard hardware wallet drains rocks sentiment</description>
   </item>
 </channel>
 </rss>
