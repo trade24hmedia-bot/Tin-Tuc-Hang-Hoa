@@ -4,8 +4,16 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Mon, 03 Aug 2026 20:25:07 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 03 Aug 2026 20:30:06 GMT</lastBuildDate>
   
+  <item>
+    <title>Here’s what happened in crypto today</title>
+    <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+    <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+    <pubDate>Mon, 03 Aug 2026 13:17:41 GMT</pubDate>
+    <source>Cointelegraph</source>
+    <description>Here’s what happened in crypto today</description>
+  </item>
   <item>
     <title>Why is Pinterest stock up almost 2% today?</title>
     <link>https://www.investing.com/news/stock-market-news/why-is-pinterest-stock-up-almost-2-today-93CH-4831385</link>
@@ -157,14 +165,6 @@
     <pubDate>Mon, 03 Aug 2026 12:21:19 GMT</pubDate>
     <source>Cointelegraph</source>
     <description>Bithumb sets 2028 IPO timetable as it overhauls internal controls</description>
-  </item>
-  <item>
-    <title>Strategy sold another $105 million of bitcoin last week, repurchased $81.2 million of STRC</title>
-    <link>https://www.coindesk.com/markets/2026/08/03/strategy-sold-another-usd105-million-of-bitcoin-last-week-repurchased-usd81-2-million-of-strc</link>
-    <guid>https://www.coindesk.com/markets/2026/08/03/strategy-sold-another-usd105-million-of-bitcoin-last-week-repurchased-usd81-2-million-of-strc</guid>
-    <pubDate>Mon, 03 Aug 2026 12:17:10 GMT</pubDate>
-    <source>CoinDesk</source>
-    <description>Strategy sold another $105 million of bitcoin last week, repurchased $81.2 million of STRC</description>
   </item>
 </channel>
 </rss>
