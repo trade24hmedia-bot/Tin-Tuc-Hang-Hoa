@@ -4,8 +4,16 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Fri, 07 Aug 2026 20:40:06 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 20:45:06 GMT</lastBuildDate>
   
+  <item>
+    <title>Bitcoin’s volatility has nearly disappeared. The risk hasn’t.</title>
+    <link>https://www.coindesk.com/daybook-us/2026/08/07/bitcoin-s-volatility-has-nearly-disappeared-the-risk-hasn-t</link>
+    <guid>https://www.coindesk.com/daybook-us/2026/08/07/bitcoin-s-volatility-has-nearly-disappeared-the-risk-hasn-t</guid>
+    <pubDate>Fri, 07 Aug 2026 11:42:20 GMT</pubDate>
+    <source>CoinDesk</source>
+    <description>Bitcoin’s volatility has nearly disappeared. The risk hasn’t.</description>
+  </item>
   <item>
     <title>Dream Finders to buy Beazer Homes in $2.2-billion deal</title>
     <link>https://www.investing.com/news/stock-market-news/dream-finders-homes-to-acquire-beazer-homes-for-22-billion-4845719</link>
@@ -157,14 +165,6 @@
     <pubDate>Fri, 07 Aug 2026 09:25:56 GMT</pubDate>
     <source>Cointelegraph</source>
     <description>CleanSpark misses Wall Street revenue estimates as shares sink</description>
-  </item>
-  <item>
-    <title>Coldcard fallout shows up onchain as 210,000 bitcoin leaves old wallets</title>
-    <link>https://www.coindesk.com/markets/2026/08/07/coldcard-fallout-shows-up-onchain-as-210-000-bitcoin-leaves-old-wallets</link>
-    <guid>https://www.coindesk.com/markets/2026/08/07/coldcard-fallout-shows-up-onchain-as-210-000-bitcoin-leaves-old-wallets</guid>
-    <pubDate>Fri, 07 Aug 2026 09:24:00 GMT</pubDate>
-    <source>CoinDesk</source>
-    <description>Coldcard fallout shows up onchain as 210,000 bitcoin leaves old wallets</description>
   </item>
 </channel>
 </rss>
