@@ -4,7 +4,7 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Fri, 07 Aug 2026 21:40:06 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 21:45:06 GMT</lastBuildDate>
   
   <item>
     <title>Why is PDF Solutions stock rallying today?</title>
@@ -21,6 +21,14 @@
     <pubDate>Fri, 07 Aug 2026 12:37:09 GMT</pubDate>
     <source>Investing - Phai sinh</source>
     <description>Stock futures add to gains after negative jobs report reduces Fed rate hike bets</description>
+  </item>
+  <item>
+    <title>Lý do tên lửa đạn đạo Nga liên tục xuyên thủng lưới phòng không Ukraine</title>
+    <link>https://cafef.vn/ly-do-ten-lua-dan-dao-nga-lien-tuc-xuyen-thung-luoi-phong-khong-ukraine-188260807185140299.chn</link>
+    <guid>https://cafef.vn/ly-do-ten-lua-dan-dao-nga-lien-tuc-xuyen-thung-luoi-phong-khong-ukraine-188260807185140299.chn</guid>
+    <pubDate>Fri, 07 Aug 2026 12:37:00 GMT</pubDate>
+    <source>CafeF - Tai chinh QT</source>
+    <description>Lý do tên lửa đạn đạo Nga liên tục xuyên thủng lưới phòng không Ukraine</description>
   </item>
   <item>
     <title>The U.S. lost 23,000 jobs in July, far shy of forecasts for a gain of 80,000</title>
@@ -157,14 +165,6 @@
     <pubDate>Fri, 07 Aug 2026 11:45:49 GMT</pubDate>
     <source>CoinDesk</source>
     <description>Why Bitcoin's BIP-110 refuses to die despite near-zero miner support</description>
-  </item>
-  <item>
-    <title>Bitcoin’s volatility has nearly disappeared. The risk hasn’t.</title>
-    <link>https://www.coindesk.com/daybook-us/2026/08/07/bitcoin-s-volatility-has-nearly-disappeared-the-risk-hasn-t</link>
-    <guid>https://www.coindesk.com/daybook-us/2026/08/07/bitcoin-s-volatility-has-nearly-disappeared-the-risk-hasn-t</guid>
-    <pubDate>Fri, 07 Aug 2026 11:42:20 GMT</pubDate>
-    <source>CoinDesk</source>
-    <description>Bitcoin’s volatility has nearly disappeared. The risk hasn’t.</description>
   </item>
 </channel>
 </rss>
