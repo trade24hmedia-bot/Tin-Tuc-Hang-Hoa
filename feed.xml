@@ -4,7 +4,7 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Sat, 08 Aug 2026 05:10:06 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 05:15:05 GMT</lastBuildDate>
   
   <item>
     <title>Fitch cuts UWM rating to B+ on higher leverage</title>
@@ -21,6 +21,14 @@
     <pubDate>Fri, 07 Aug 2026 20:02:42 GMT</pubDate>
     <source>Investing - Phai sinh</source>
     <description>Moody’s shifts Eastman Chemical outlook on cash flow concerns</description>
+  </item>
+  <item>
+    <title>US Treasury’s OFAC sanctions 2 Iran-linked crypto exchanges</title>
+    <link>https://cointelegraph.com/news/us-treasury-sanctions-iran-crypto-exchanges?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+    <guid>https://cointelegraph.com/news/us-treasury-sanctions-iran-crypto-exchanges?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+    <pubDate>Fri, 07 Aug 2026 20:02:20 GMT</pubDate>
+    <source>Cointelegraph</source>
+    <description>US Treasury’s OFAC sanctions 2 Iran-linked crypto exchanges</description>
   </item>
   <item>
     <title>Gold set for best week since late January after jobs data dents Fed rate hike bets</title>
@@ -157,14 +165,6 @@
     <pubDate>Fri, 07 Aug 2026 19:06:34 GMT</pubDate>
     <source>Investing - Hang hoa</source>
     <description>Gold hits $4,432 with RSI at 76: Hourly levels</description>
-  </item>
-  <item>
-    <title>Crude Oil WTI tests $79.30-$80.88 resistance: Live levels</title>
-    <link>https://www.investing.com/news/commodities-news/crude-oil-wti-trapped-in-79608250-range-hourly-levels-93CH-4833083</link>
-    <guid>https://www.investing.com/news/commodities-news/crude-oil-wti-trapped-in-79608250-range-hourly-levels-93CH-4833083</guid>
-    <pubDate>Fri, 07 Aug 2026 19:06:33 GMT</pubDate>
-    <source>Investing - Hang hoa</source>
-    <description>Crude Oil WTI tests $79.30-$80.88 resistance: Live levels</description>
   </item>
 </channel>
 </rss>
