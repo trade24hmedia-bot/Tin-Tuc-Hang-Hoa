@@ -4,8 +4,16 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Sun, 09 Aug 2026 03:05:06 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 03:10:05 GMT</lastBuildDate>
   
+  <item>
+    <title>Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins</title>
+    <link>https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support</link>
+    <guid>https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support</guid>
+    <pubDate>Sat, 08 Aug 2026 20:06:47 GMT</pubDate>
+    <source>CoinDesk</source>
+    <description>Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins</description>
+  </item>
   <item>
     <title>Delta flight makes emergency landing in Atlanta, no injuries reported</title>
     <link>https://www.investing.com/news/stock-market-news/delta-flight-makes-emergency-landing-in-atlanta-no-injuries-reported-4847682</link>
@@ -157,14 +165,6 @@
     <pubDate>Sat, 08 Aug 2026 13:22:00 GMT</pubDate>
     <source>Investing - Phai sinh</source>
     <description>What happens to stocks when the Fed starts hiking? Barclays weighs in</description>
-  </item>
-  <item>
-    <title>Mỹ chi 400 triệu USD cho vũ khí laser, thúc đẩy Golden Dome</title>
-    <link>https://cafef.vn/my-chi-400-trieu-usd-cho-vu-khi-laser-thuc-day-golden-dome-18826080819013501.chn</link>
-    <guid>https://cafef.vn/my-chi-400-trieu-usd-cho-vu-khi-laser-thuc-day-golden-dome-18826080819013501.chn</guid>
-    <pubDate>Sat, 08 Aug 2026 13:07:00 GMT</pubDate>
-    <source>CafeF - Tai chinh QT</source>
-    <description>Mỹ chi 400 triệu USD cho vũ khí laser, thúc đẩy Golden Dome</description>
   </item>
 </channel>
 </rss>
