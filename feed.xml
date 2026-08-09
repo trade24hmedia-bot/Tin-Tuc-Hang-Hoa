@@ -4,8 +4,16 @@
   <title>Tin tuc thi truong hang hoa - Tong hop</title>
   <link>https://trade24hmedia-bot.github.io/Tin-Tuc-Hang-Hoa/</link>
   <description>Feed tong hop tu 7 nguon tin hang hoa</description>
-  <lastBuildDate>Sun, 09 Aug 2026 12:10:05 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 12:15:05 GMT</lastBuildDate>
   
+  <item>
+    <title>Controversial Bitcoin fork BIP-110 mines two blocks, then stops</title>
+    <link>https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops</link>
+    <guid>https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops</guid>
+    <pubDate>Sun, 09 Aug 2026 05:08:20 GMT</pubDate>
+    <source>CoinDesk</source>
+    <description>Controversial Bitcoin fork BIP-110 mines two blocks, then stops</description>
+  </item>
   <item>
     <title>More workers join strike at BHP’s Port Hedland iron ore operations</title>
     <link>https://www.investing.com/news/stock-market-news/more-workers-join-strike-at-bhps-port-hedland-iron-ore-operations-4847699</link>
@@ -157,14 +165,6 @@
     <pubDate>Sat, 08 Aug 2026 19:24:30 GMT</pubDate>
     <source>Investing - Phai sinh</source>
     <description>US Senate advances landmark crypto bill before heading on August recess</description>
-  </item>
-  <item>
-    <title>European software rally leaves next leg to long-only investors, Deutsche Bank says</title>
-    <link>https://www.investing.com/news/stock-market-news/european-software-rally-leaves-next-leg-to-longonly-investors-deutsche-bank-says-4847680</link>
-    <guid>https://www.investing.com/news/stock-market-news/european-software-rally-leaves-next-leg-to-longonly-investors-deutsche-bank-says-4847680</guid>
-    <pubDate>Sat, 08 Aug 2026 19:02:19 GMT</pubDate>
-    <source>Investing - Phai sinh</source>
-    <description>European software rally leaves next leg to long-only investors, Deutsche Bank says</description>
   </item>
 </channel>
 </rss>
